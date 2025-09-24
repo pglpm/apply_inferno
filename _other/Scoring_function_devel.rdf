@@ -1,0 +1,3066 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:z="http://www.zotero.org/namespaces/export#"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:bib="http://purl.org/net/biblio#"
+ xmlns:foaf="http://xmlns.com/foaf/0.1/"
+ xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/"
+ xmlns:link="http://purl.org/rss/1.0/modules/link/">
+    <bib:Article rdf:about="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=PubMed&amp;dopt=Citation&amp;list_uids=20345171">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dc:title>Journal of Medicinal Chemistry</dc:title>
+                <dc:identifier>DOI 10.1021/jm100112j</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bissantz</foaf:surname>
+                        <foaf:givenName>C</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kuhn</foaf:surname>
+                        <foaf:givenName>B</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Stahl</foaf:surname>
+                        <foaf:givenName>M</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>A Medicinal Chemist's Guide to Molecular Interactions</dc:title>
+        <dc:date>2010</dc:date>
+        <z:language>Eng</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=PubMed&amp;dopt=Citation&amp;list_uids=20345171</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:description>PMID: 20345171</dc:description>
+    </bib:Article>
+    <bib:Article rdf:about="https://pubs.acs.org/doi/abs/10.1021/acs.jcim.9b00714">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dc:title>Journal of Chemical Information and Modeling</dc:title>
+                <dc:identifier>DOI 10.1021/acs.jcim.9b00714</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Su</foaf:surname>
+                        <foaf:givenName>Minyi</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Feng</foaf:surname>
+                        <foaf:givenName>Guoqin</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Liu</foaf:surname>
+                        <foaf:givenName>Zhihai</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Li</foaf:surname>
+                        <foaf:givenName>Yan</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wang</foaf:surname>
+                        <foaf:givenName>Renxiao</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Tapping on the Black Box: How Is the Scoring Power of a Machine-Learning Scoring Function Dependent on the Training Set?</dc:title>
+        <dcterms:abstract>In recent years, protein–ligand interaction scoring functions derived through machine-learning are repeatedly reported to outperform conventional scoring functions. However, several published studies have questioned that the superior performance of machine-learning scoring functions is dependent on the overlap between the training set and the test set. In order to examine the true power of machine-learning algorithms in scoring function formulation, we have conducted a systematic study of six off-the-shelf machine-learning algorithms, including Bayesian Ridge Regression (BRR), Decision Tree (DT), K-Nearest Neighbors (KNN), Multilayer Perceptron (MLP), Linear Support Vector Regression (L-SVR), and Random Forest (RF). Model scoring functions were derived with these machine-learning algorithms on various training sets selected from over 3700 protein–ligand complexes in the PDBbind refined set (version 2016). All resulting scoring functions were then applied to the CASF-2016 test set to validate their scoring power. In our first series of trial, the size of the training set was fixed; while the overall similarity between the training set and the test set was varied systematically. In our second series of trial, the overall similarity between the training set and the test set was fixed, while the size of the training set was varied. Our results indicate that the performance of those machine-learning models are more or less dependent on the contents or the size of the training set, where the RF model demonstrates the best learning capability. In contrast, the performance of three conventional scoring functions (i.e., ChemScore, ASP, and X-Score) is basically insensitive to the use of different training sets. Therefore, one has to consider not only “hard overlap” but also “soft overlap” between the training set and the test set in order to evaluate machine-learning scoring functions. In this spirit, we have complied data sets based on the PDBbind refined set by removing redundant samples under several similarity thresholds. Scoring functions developers are encouraged to employ them as standard training sets if they want to evaluate their new models on the CASF-2016 benchmark.</dcterms:abstract>
+        <dc:date>February 21, 2020</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>Tapping on the Black Box</z:shortTitle>
+        <dc:coverage>world</dc:coverage>
+        <z:libraryCatalog>pubs.acs.org</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://pubs.acs.org/doi/abs/10.1021/acs.jcim.9b00714</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-03-23 14:12:38</dcterms:dateSubmitted>
+        <dc:rights>Copyright © 2020 American Chemical Society</dc:rights>
+        <dc:description>Publisher: American Chemical Society</dc:description>
+    </bib:Article>
+    <bib:Article rdf:about="http://www.sciencedirect.com/science/article/pii/S1359644617301034">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1359-6446"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Meghani</foaf:surname>
+                        <foaf:givenName>Nilesh M.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Amin</foaf:surname>
+                        <foaf:givenName>Hardik H.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lee</foaf:surname>
+                        <foaf:givenName>Beom-Jin</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Mechanistic applications of click chemistry for pharmaceutical drug discovery and drug delivery</dc:title>
+        <dcterms:abstract>The concept of click chemistry (CC), first introduced by K.B. Sharpless, has been widely adopted for use in drug discovery, novel drug delivery systems (DDS), polymer chemistry, and material sciences. In this review, we outline novel aspects of CC related to drug discovery and drug delivery, with a brief overview of molecular mechanisms underlying each click reaction commonly used by researchers, and the main patents that paved the way for further diverse medicinal applications. We also describe recent progress in drug discovery and polymeric and carbon material-based drug delivery for potential pharmaceutical applications and advancements based on the CC approach, and discuss some intrinsic limitations of this popular conjugation reaction. The use of CC is likely to significantly advance drug discovery and bioconjugation development.</dcterms:abstract>
+        <dc:date>November 1, 2017</dc:date>
+        <z:libraryCatalog>ScienceDirect</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.sciencedirect.com/science/article/pii/S1359644617301034</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2017-11-16 13:20:23</dcterms:dateSubmitted>
+        <bib:pages>1604-1619</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1359-6446">
+        <prism:volume>22</prism:volume>
+        <dc:title>Drug Discovery Today</dc:title>
+        <dc:identifier>DOI 10.1016/j.drudis.2017.07.007</dc:identifier>
+        <prism:number>11</prism:number>
+        <dcterms:alternative>Drug Discovery Today</dcterms:alternative>
+        <dc:identifier>ISSN 1359-6446</dc:identifier>
+    </bib:Journal>
+    <bib:Article rdf:about="http://dx.doi.org/10.1021/acsmedchemlett.7b00054">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>8</prism:volume>
+                <dc:title>ACS Medicinal Chemistry Letters</dc:title>
+                <dc:identifier>DOI 10.1021/acsmedchemlett.7b00054</dc:identifier>
+                <prism:number>4</prism:number>
+                <dcterms:alternative>ACS Med. Chem. Lett.</dcterms:alternative>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Baranczak</foaf:surname>
+                        <foaf:givenName>Aleksandra</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Tu</foaf:surname>
+                        <foaf:givenName>Noah P.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Marjanovic</foaf:surname>
+                        <foaf:givenName>Jasmina</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Searle</foaf:surname>
+                        <foaf:givenName>Philip A.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Vasudevan</foaf:surname>
+                        <foaf:givenName>Anil</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Djuric</foaf:surname>
+                        <foaf:givenName>Stevan W.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Integrated Platform for Expedited Synthesis–Purification–Testing of Small Molecule Libraries</dc:title>
+        <dcterms:abstract>The productivity of medicinal chemistry programs can be significantly increased through the introduction of automation, leading to shortened discovery cycle times. Herein, we describe a platform that consolidates synthesis, purification, quantitation, dissolution, and testing of small molecule libraries. The system was validated through the synthesis and testing of two libraries of binders of polycomb protein EED, and excellent correlation of obtained data with results generated through conventional approaches was observed. The fully automated and integrated platform enables batch-supported compound synthesis based on a broad array of chemical transformations with testing in a variety of biochemical assay formats. A library turnaround time of between 24 and 36 h was achieved, and notably, each library synthesis produces sufficient amounts of compounds for further evaluation in secondary assays thereby contributing significantly to the shortening of medicinal chemistry discovery cycles.</dcterms:abstract>
+        <dc:date>April 13, 2017</dc:date>
+        <z:libraryCatalog>ACS Publications</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://dx.doi.org/10.1021/acsmedchemlett.7b00054</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2017-04-18 11:58:12</dcterms:dateSubmitted>
+        <bib:pages>461-465</bib:pages>
+    </bib:Article>
+    <bib:Article rdf:about="https://onlinelibrary.wiley.com/doi/abs/10.1002/wcms.1429">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1759-0884"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Shen</foaf:surname>
+                        <foaf:givenName>Chao</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ding</foaf:surname>
+                        <foaf:givenName>Junjie</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wang</foaf:surname>
+                        <foaf:givenName>Zhe</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Cao</foaf:surname>
+                        <foaf:givenName>Dongsheng</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ding</foaf:surname>
+                        <foaf:givenName>Xiaoqin</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hou</foaf:surname>
+                        <foaf:givenName>Tingjun</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>deep learning</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>machine learning</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>molecular docking</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>scoring function</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>structure-based drug design</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>From machine learning to deep learning: Advances in scoring functions for protein–ligand docking</dc:title>
+        <dcterms:abstract>Molecule docking has been regarded as a routine tool for drug discovery, but its accuracy highly depends on the reliability of scoring functions (SFs). With the rapid development of machine learning (ML) techniques, ML-based SFs have gradually emerged as a promising alternative for protein–ligand binding affinity prediction and virtual screening, and most of them have shown significantly better performance than a wide range of classical SFs. Emergence of more data-hungry deep learning (DL) approaches in recent years further fascinates the exploitation of more accurate SFs. Here, we summarize the progress of traditional ML-based SFs in the last few years and provide insights into recently developed DL-based SFs. We believe that the continuous improvement in ML-based SFs can surely guide the early-stage drug design and accelerate the discovery of new drugs. This article is categorized under: Computer and Information Science &gt; Chemoinformatics</dcterms:abstract>
+        <dc:date>2020</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>From machine learning to deep learning</z:shortTitle>
+        <z:libraryCatalog>Wiley Online Library</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://onlinelibrary.wiley.com/doi/abs/10.1002/wcms.1429</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2019-12-11 09:37:36</dcterms:dateSubmitted>
+        <dc:rights>© 2019 Wiley Periodicals, Inc.</dc:rights>
+        <bib:pages>e1429</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1759-0884">
+        <prism:volume>10</prism:volume>
+        <dc:title>WIREs Computational Molecular Science</dc:title>
+        <dc:identifier>DOI 10.1002/wcms.1429</dc:identifier>
+        <prism:number>1</prism:number>
+        <dc:identifier>ISSN 1759-0884</dc:identifier>
+    </bib:Journal>
+    <bib:Document rdf:about="https://jcheminf.biomedcentral.com/articles/10.1186/s13321-020-0412-1">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <dc:title>Craig plot 2.0: an interactive navigation in the substituent bioisosteric space | Journal of Cheminformatics | Full Text</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://jcheminf.biomedcentral.com/articles/10.1186/s13321-020-0412-1</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-02-04 12:29:20</dcterms:dateSubmitted>
+    </bib:Document>
+    <bib:Article rdf:about="http://onlinelibrary.wiley.com/doi/10.1002/minf.201500034/abstract">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1868-1751"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hu</foaf:surname>
+                        <foaf:givenName>Ye</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zhang</foaf:surname>
+                        <foaf:givenName>Bijun</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bajorath</foaf:surname>
+                        <foaf:givenName>Jürgen</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Activity profiles.</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Chemical transformations</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Hierarchical structural relationships</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Molecular topology</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Scaffolds</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Structure-activity relationships</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Method for Systematic Assessment of Chemical Changes in Molecular Scaffolds with Conserved Topology and Application to the Analysis of Scaffold-Activity Relationships</dc:title>
+        <dcterms:abstract>Sets of scaffolds with conserved molecular topology are abundant among drugs and bioactive compounds. Core structure topology is one of the determinants of biological activity. Heteroatom replacements and/or bond order variation render topologically equivalent scaffolds chemically distinct and also contribute to differences in the biological activity of compounds containing these scaffolds. Relationships between core structure topology, chemical modifications, and observed activity profiles are difficult to analyze. A computational method is introduced to consistently assess chemical transformations that distinguish scaffolds with conserved topology. The methodology is applied to quantify chemical differences in conserved topological environments and systematically relate chemical changes in topologically equivalent scaffolds to associated activity profiles.</dcterms:abstract>
+        <dc:date>August 1, 2015</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>Wiley Online Library</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://onlinelibrary.wiley.com/doi/10.1002/minf.201500034/abstract</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2017-08-28 08:36:45</dcterms:dateSubmitted>
+        <bib:pages>531-549</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1868-1751">
+        <prism:volume>34</prism:volume>
+        <dc:title>Molecular Informatics</dc:title>
+        <dc:identifier>DOI 10.1002/minf.201500034</dc:identifier>
+        <prism:number>8</prism:number>
+        <dcterms:alternative>Mol. Inf.</dcterms:alternative>
+        <dc:identifier>ISSN 1868-1751</dc:identifier>
+    </bib:Journal>
+    <bib:Article rdf:about="http://dx.doi.org/10.1021/acs.jcim.6b00248">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1549-9596"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Belew</foaf:surname>
+                        <foaf:givenName>Richard K.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Forli</foaf:surname>
+                        <foaf:givenName>Stefano</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Goodsell</foaf:surname>
+                        <foaf:givenName>David S.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>O’Donnell</foaf:surname>
+                        <foaf:givenName>T. J.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Olson</foaf:surname>
+                        <foaf:givenName>Arthur J.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_62"/>
+        <dc:title>Fragment-Based Analysis of Ligand Dockings Improves Classification of Actives</dc:title>
+        <dcterms:abstract>We describe ADChemCast, a method for using results from virtual screening to create a richer representation of a target binding site, which may be used to improve ranking of compounds and characterize the determinants of ligand–receptor specificity. ADChemCast clusters docked conformations of ligands based on shared pairwise receptor–ligand interactions within chemically similar structural fragments, building a set of attributes characteristic of binders and nonbinders. Machine learning is then used to build rules from the most informational attributes for use in reranking of compounds. In this report, we use ADChemCast to improve the ranking of compounds in 11 diverse proteins from the Database of Useful Decoys-Enhanced (DUD-E) and demonstrate the utility of the method for characterizing relevant binding attributes in HIV reverse transcriptase.</dcterms:abstract>
+        <dc:date>August 22, 2016</dc:date>
+        <z:libraryCatalog>ACS Publications</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://dx.doi.org/10.1021/acs.jcim.6b00248</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2017-06-26 08:39:22</dcterms:dateSubmitted>
+        <bib:pages>1597-1607</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1549-9596">
+        <prism:volume>56</prism:volume>
+        <dc:title>Journal of Chemical Information and Modeling</dc:title>
+        <dc:identifier>DOI 10.1021/acs.jcim.6b00248</dc:identifier>
+        <prism:number>8</prism:number>
+        <dcterms:alternative>J. Chem. Inf. Model.</dcterms:alternative>
+        <dc:identifier>ISSN 1549-9596</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_62">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>ACS Full Text PDF w/ Links</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://pubs.acs.org/doi/pdfplus/10.1021/acs.jcim.6b00248</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2017-06-26 08:39:22</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://onlinelibrary.wiley.com/doi/10.1002/minf.201600162/abstract">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>36</prism:volume>
+                <dc:title>Molecular Informatics</dc:title>
+                <dc:identifier>DOI 10.1002/minf.201600162</dc:identifier>
+                <prism:number>8</prism:number>
+                <dcterms:alternative>Mol. Inf.</dcterms:alternative>
+                <dc:identifier>ISSN 1868-1751</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Fedorov</foaf:surname>
+                        <foaf:givenName>Aleksandr V.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Shamanaev</foaf:surname>
+                        <foaf:givenName>Ivan V.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_68"/>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>artificial neural network</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>entropy</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>lattice energy</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>molar heat capacity</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>ToposPro</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Crystal Structure Representation for Neural Networks using Topological Approach</dc:title>
+        <dcterms:abstract>In the present work we describe a new approach, which uses topology of crystals for physicochemical properties prediction using artificial neural networks (ANN). The topologies of 268 crystal structures were determined using ToposPro software. Quotient graphs were used to identify topological centers and their neighbors. The topological approach was illustrated by training ANN to predict molar heat capacity, standard molar entropy and lattice energy of 268 crystals with different compositions and structures (metals, inorganic salts, oxides, etc.). ANN was trained using Broyden-Fletcher-Goldfarb-Shanno (BFGS) algorithm. Mean absolute percentage error of predicted properties was ≤8 %.</dcterms:abstract>
+        <dc:date>August 1, 2017</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>Wiley Online Library</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://onlinelibrary.wiley.com/doi/10.1002/minf.201600162/abstract</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2017-08-11 08:04:12</dcterms:dateSubmitted>
+        <bib:pages>n/a-n/a</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_68">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://onlinelibrary.wiley.com/store/10.1002/minf.201600162/asset/minf201600162.pdf?v=1&amp;t=j67l6j03&amp;s=0e29b30e57bf4208611e52600d92827a0fec1a84</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2017-08-11 08:04:12</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://dx.doi.org/10.1021/ci500406k">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1549-960X"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gabel</foaf:surname>
+                        <foaf:givenName>Joffrey</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Desaphy</foaf:surname>
+                        <foaf:givenName>Jérémy</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Rognan</foaf:surname>
+                        <foaf:givenName>Didier</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>Artifacts</dc:subject>
+        <dc:subject>Binding Sites</dc:subject>
+        <dc:subject>Chemical</dc:subject>
+        <dc:subject>Crystallography</dc:subject>
+        <dc:subject>Databases</dc:subject>
+        <dc:subject>Enzyme Inhibitors</dc:subject>
+        <dc:subject>Enzyme Inhibitors: chemistry</dc:subject>
+        <dc:subject>High-Throughput Screening Assays</dc:subject>
+        <dc:subject>Humans</dc:subject>
+        <dc:subject>Ligands</dc:subject>
+        <dc:subject>Molecular Docking Simulation</dc:subject>
+        <dc:subject>Molecular Dynamics Simulation</dc:subject>
+        <dc:subject>Protein Binding</dc:subject>
+        <dc:subject>Proteins</dc:subject>
+        <dc:subject>Proteins: antagonists &amp; inhibitors</dc:subject>
+        <dc:subject>Proteins: chemistry</dc:subject>
+        <dc:subject>random forest</dc:subject>
+        <dc:subject>Research Design</dc:subject>
+        <dc:subject>scoring function development</dc:subject>
+        <dc:subject>Small Molecule Libraries</dc:subject>
+        <dc:subject>Small Molecule Libraries: chemistry</dc:subject>
+        <dc:subject>Support Vector Machines</dc:subject>
+        <dc:subject>Thermodynamics</dc:subject>
+        <dc:subject>User-Computer Interface</dc:subject>
+        <dc:subject>warning</dc:subject>
+        <dc:subject>X-Ray</dc:subject>
+        <dc:title>Beware of machine learning-based scoring functions-on the danger of developing black boxes.</dc:title>
+        <dcterms:abstract>Training machine learning algorithms with protein-ligand descriptors has recently gained considerable attention to predict binding constants from atomic coordinates. Starting from a series of recent reports stating the advantages of this approach over empirical scoring functions, we could indeed reproduce the claimed superiority of Random Forest and Support Vector Machine-based scoring functions to predict experimental binding constants from protein-ligand X-ray structures of the PDBBind dataset. Strikingly, these scoring functions, trained on simple protein-ligand element-element distance counts, were almost unable to enrich virtual screening hit lists in true actives upon docking experiments of 10 reference DUD-E datasets; this is a a feature that, however, has been verified for an a priori less-accurate empirical scoring function (Surflex-Dock). By systematically varying ligand poses from true X-ray coordinates, we show that the Surflex-Dock scoring function is logically sensitive to the quality of docking poses. Conversely, our machine-learning based scoring functions are totally insensitive to docking poses (up to 10 \AA root-mean square deviations) and just describe atomic element counts. This report does not disqualify using machine learning algorithms to design scoring functions. Protein-ligand element-element distance counts should however be used with extreme caution and only applied in a meaningful way. To avoid developing novel but meaningless scoring functions, we propose that two additional benchmarking tests must be systematically done when developing novel scoring functions: (i) sensitivity to docking pose accuracy, and (ii) ability to enrich hit lists in true actives upon structure-based (docking, receptor-ligand pharmacophore) virtual screening of reference datasets.</dcterms:abstract>
+        <dc:date>October 2014</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://dx.doi.org/10.1021/ci500406k</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:description>PMID: 25207678</dc:description>
+        <bib:pages>2807–15</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1549-960X">
+        <prism:volume>54</prism:volume>
+        <dc:title>Journal of chemical information and modeling</dc:title>
+        <dc:identifier>DOI 10.1021/ci500406k</dc:identifier>
+        <prism:number>10</prism:number>
+        <dc:identifier>ISSN 1549-960X</dc:identifier>
+    </bib:Journal>
+    <bib:Article rdf:about="http://science.sciencemag.org/content/358/6370/1530">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0036-8075,%201095-9203"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Brynjolfsson</foaf:surname>
+                        <foaf:givenName>Erik</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mitchell</foaf:surname>
+                        <foaf:givenName>Tom</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_81"/>
+        <dc:title>What can machine learning do? Workforce implications</dc:title>
+        <dcterms:abstract>Profound change is coming, but roles for humans remain
+Profound change is coming, but roles for humans remain</dcterms:abstract>
+        <dc:date>2017/12/22</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>What can machine learning do?</z:shortTitle>
+        <z:libraryCatalog>science.sciencemag.org</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://science.sciencemag.org/content/358/6370/1530</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2017-12-22 13:44:24</dcterms:dateSubmitted>
+        <dc:rights>Copyright © 2017, American Association for the Advancement of Science. http://www.sciencemag.org/about/science-licenses-journal-article-reuseThis is an article distributed under the terms of the Science Journals Default License.</dc:rights>
+        <dc:description>PMID: 29269459</dc:description>
+        <bib:pages>1530-1534</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0036-8075,%201095-9203">
+        <prism:volume>358</prism:volume>
+        <dc:title>Science</dc:title>
+        <dc:identifier>DOI 10.1126/science.aap8062</dc:identifier>
+        <prism:number>6370</prism:number>
+        <dc:identifier>ISSN 0036-8075, 1095-9203</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_81">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>PubMed entry</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://www.ncbi.nlm.nih.gov/pubmed/29269459</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2017-12-22 13:44:34</dcterms:dateSubmitted>
+        <z:linkMode>3</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://www.nature.com/articles/s41586-019-0917-9">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1476-4687"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lyu</foaf:surname>
+                        <foaf:givenName>Jiankun</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wang</foaf:surname>
+                        <foaf:givenName>Sheng</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Balius</foaf:surname>
+                        <foaf:givenName>Trent E.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Singh</foaf:surname>
+                        <foaf:givenName>Isha</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Levit</foaf:surname>
+                        <foaf:givenName>Anat</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Moroz</foaf:surname>
+                        <foaf:givenName>Yurii S.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>O’Meara</foaf:surname>
+                        <foaf:givenName>Matthew J.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Che</foaf:surname>
+                        <foaf:givenName>Tao</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Algaa</foaf:surname>
+                        <foaf:givenName>Enkhjargal</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Tolmachova</foaf:surname>
+                        <foaf:givenName>Kateryna</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Tolmachev</foaf:surname>
+                        <foaf:givenName>Andrey A.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Shoichet</foaf:surname>
+                        <foaf:givenName>Brian K.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Roth</foaf:surname>
+                        <foaf:givenName>Bryan L.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Irwin</foaf:surname>
+                        <foaf:givenName>John J.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Ultra-large library docking for discovering new chemotypes</dc:title>
+        <dcterms:abstract>Using a make-on-demand library that contains hundreds-of-millions of molecules, structure-based docking was used to identify compounds that, after synthesis and testing, are shown to interact with AmpC β-lactamase and the D4 dopamine receptor with high affinity.</dcterms:abstract>
+        <dc:date>2019-02-06</dc:date>
+        <z:language>En</z:language>
+        <z:libraryCatalog>www.nature.com</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.nature.com/articles/s41586-019-0917-9</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2019-02-08 13:49:43</dcterms:dateSubmitted>
+        <dc:rights>2019 The Author(s), under exclusive licence to Springer Nature Limited</dc:rights>
+        <bib:pages>1</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1476-4687">
+        <dc:title>Nature</dc:title>
+        <dc:identifier>DOI 10.1038/s41586-019-0917-9</dc:identifier>
+        <dc:identifier>ISSN 1476-4687</dc:identifier>
+    </bib:Journal>
+    <bib:Article rdf:about="https://www.nature.com/articles/d41586-019-02307-y">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>572</prism:volume>
+                <dc:title>Nature</dc:title>
+                <dc:identifier>DOI 10.1038/d41586-019-02307-y</dc:identifier>
+                <prism:number>7767</prism:number>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Riley</foaf:surname>
+                        <foaf:givenName>Patrick</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Three pitfalls to avoid in machine learning</dc:title>
+        <dcterms:abstract>As scientists from myriad fields rush to perform algorithmic analyses, Google’s Patrick Riley calls for clear standards in research and reporting.</dcterms:abstract>
+        <dc:date>2019-08</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>www.nature.com</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.nature.com/articles/d41586-019-02307-y</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2019-12-12 08:44:08</dcterms:dateSubmitted>
+        <dc:rights>2019 Nature</dc:rights>
+        <bib:pages>27-29</bib:pages>
+    </bib:Article>
+    <bib:Article rdf:about="https://doi.org/10.1021/acsmedchemlett.8b00437">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>9</prism:volume>
+                <dc:title>ACS Medicinal Chemistry Letters</dc:title>
+                <dc:identifier>DOI 10.1021/acsmedchemlett.8b00437</dc:identifier>
+                <prism:number>11</prism:number>
+                <dcterms:alternative>ACS Med. Chem. Lett.</dcterms:alternative>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Smith</foaf:surname>
+                        <foaf:givenName>Justin S.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Roitberg</foaf:surname>
+                        <foaf:givenName>Adrian E.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Isayev</foaf:surname>
+                        <foaf:givenName>Olexandr</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Transforming Computational Drug Discovery with Machine Learning and AI</dc:title>
+        <dcterms:abstract>In this Viewpoint, we discuss the current progress in applications of machine learning (ML) and artificial intelligence (AI) to meet the challenges of computational drug discovery. We identify several areas where existing methods have the potential to accelerate pharmaceutical research and disrupt more traditional approaches.</dcterms:abstract>
+        <dc:date>November 8, 2018</dc:date>
+        <z:libraryCatalog>ACS Publications</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://doi.org/10.1021/acsmedchemlett.8b00437</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2018-11-08 15:21:21</dcterms:dateSubmitted>
+        <bib:pages>1065-1069</bib:pages>
+    </bib:Article>
+    <bib:Article rdf:about="https://doi.org/10.1007/s10822-020-00291-4">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1573-4951"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Stroganov</foaf:surname>
+                        <foaf:givenName>Oleg V.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Novikov</foaf:surname>
+                        <foaf:givenName>Fedor N.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Medvedev</foaf:surname>
+                        <foaf:givenName>Michael G.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Dmitrienko</foaf:surname>
+                        <foaf:givenName>Artem O.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gerasimov</foaf:surname>
+                        <foaf:givenName>Igor</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Svitanko</foaf:surname>
+                        <foaf:givenName>Igor V.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Chilov</foaf:surname>
+                        <foaf:givenName>Ghermes G.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>The role of human in the loop: lessons from D3R challenge 4</dc:title>
+        <dcterms:abstract>The rapid development of new machine learning techniques led to significant progress in the area of computer-aided drug design. However, despite the enormous predictive power of new methods, they lack explainability and are often used as black boxes. The most important decisions in drug discovery are still made by human experts who rely on intuitions and simplified representation of the field. We used D3R Grand Challenge 4 to model contributions of human experts during the prediction of the structure of protein–ligand complexes, and prediction of binding affinities for series of ligands in the context of absence or abundance of experimental data. We demonstrated that human decisions have a series of biases: a tendency to focus on easily identifiable protein–ligand interactions such as hydrogen bonds, and neglect for a more distributed and complex electrostatic interactions and solvation effects. While these biases still allow human experts to compete with blind algorithms in some areas, the underutilization of the information leads to significantly worse performance in data-rich tasks such as binding affinity prediction.</dcterms:abstract>
+        <dc:date>2020-02-01</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>The role of human in the loop</z:shortTitle>
+        <z:libraryCatalog>Springer Link</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://doi.org/10.1007/s10822-020-00291-4</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-02-20 09:10:51</dcterms:dateSubmitted>
+        <bib:pages>121-130</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1573-4951">
+        <prism:volume>34</prism:volume>
+        <dc:title>Journal of Computer-Aided Molecular Design</dc:title>
+        <dc:identifier>DOI 10.1007/s10822-020-00291-4</dc:identifier>
+        <prism:number>2</prism:number>
+        <dcterms:alternative>J Comput Aided Mol Des</dcterms:alternative>
+        <dc:identifier>ISSN 1573-4951</dc:identifier>
+    </bib:Journal>
+    <bib:Article rdf:about="http://dx.doi.org/10.1021/acs.jcim.7b00049">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>57</prism:volume>
+                <dc:title>Journal of Chemical Information and Modeling</dc:title>
+                <dc:identifier>DOI 10.1021/acs.jcim.7b00049</dc:identifier>
+                <prism:number>4</prism:number>
+                <dcterms:alternative>J. Chem. Inf. Model.</dcterms:alternative>
+                <dc:identifier>ISSN 1549-9596</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Li</foaf:surname>
+                        <foaf:givenName>Yang</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Yang</foaf:surname>
+                        <foaf:givenName>Jianyi</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_77"/>
+        <dc:title>Structural and Sequence Similarity Makes a Significant Impact on Machine-Learning-Based Scoring Functions for Protein–Ligand Interactions</dc:title>
+        <dcterms:abstract>The prediction of protein–ligand binding affinity has recently been improved remarkably by machine-learning-based scoring functions. For example, using a set of simple descriptors representing the atomic distance counts, the RF-Score improves the Pearson correlation coefficient to about 0.8 on the core set of the PDBbind 2007 database, which is significantly higher than the performance of any conventional scoring function on the same benchmark. A few studies have been made to discuss the performance of machine-learning-based methods, but the reason for this improvement remains unclear. In this study, by systemically controlling the structural and sequence similarity between the training and test proteins of the PDBbind benchmark, we demonstrate that protein structural and sequence similarity makes a significant impact on machine-learning-based methods. After removal of training proteins that are highly similar to the test proteins identified by structure alignment and sequence alignment, machine-learning-based methods trained on the new training sets do not outperform the conventional scoring functions any more. On the contrary, the performance of conventional functions like X-Score is relatively stable no matter what training data are used to fit the weights of its energy terms.</dcterms:abstract>
+        <dc:date>April 24, 2017</dc:date>
+        <z:libraryCatalog>ACS Publications</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://dx.doi.org/10.1021/acs.jcim.7b00049</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2017-04-25 10:01:08</dcterms:dateSubmitted>
+        <bib:pages>1007-1012</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_77">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>ACS Full Text PDF w/ Links</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://pubs.acs.org/doi/pdfplus/10.1021/acs.jcim.7b00049</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2017-04-25 10:01:08</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://dx.doi.org/10.1021/acs.jcim.6b00740">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>57</prism:volume>
+                <dc:title>Journal of Chemical Information and Modeling</dc:title>
+                <dc:identifier>DOI 10.1021/acs.jcim.6b00740</dc:identifier>
+                <prism:number>4</prism:number>
+                <dcterms:alternative>J. Chem. Inf. Model.</dcterms:alternative>
+                <dc:identifier>ISSN 1549-9596</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ragoza</foaf:surname>
+                        <foaf:givenName>Matthew</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hochuli</foaf:surname>
+                        <foaf:givenName>Joshua</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Idrobo</foaf:surname>
+                        <foaf:givenName>Elisa</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sunseri</foaf:surname>
+                        <foaf:givenName>Jocelyn</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Koes</foaf:surname>
+                        <foaf:givenName>David Ryan</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Protein–Ligand Scoring with Convolutional Neural Networks</dc:title>
+        <dcterms:abstract>Computational approaches to drug discovery can reduce the time and cost associated with experimental assays and enable the screening of novel chemotypes. Structure-based drug design methods rely on scoring functions to rank and predict binding affinities and poses. The ever-expanding amount of protein–ligand binding and structural data enables the use of deep machine learning techniques for protein–ligand scoring. We describe convolutional neural network (CNN) scoring functions that take as input a comprehensive three-dimensional (3D) representation of a protein–ligand interaction. A CNN scoring function automatically learns the key features of protein–ligand interactions that correlate with binding. We train and optimize our CNN scoring functions to discriminate between correct and incorrect binding poses and known binders and nonbinders. We find that our CNN scoring function outperforms the AutoDock Vina scoring function when ranking poses both for pose prediction and virtual screening.</dcterms:abstract>
+        <dc:date>April 24, 2017</dc:date>
+        <z:libraryCatalog>ACS Publications</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://dx.doi.org/10.1021/acs.jcim.6b00740</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2017-04-25 10:02:14</dcterms:dateSubmitted>
+        <bib:pages>942-957</bib:pages>
+    </bib:Article>
+    <bib:Article rdf:about="https://doi.org/10.1021/acs.jcim.7b00403">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>58</prism:volume>
+                <dc:title>Journal of Chemical Information and Modeling</dc:title>
+                <dc:identifier>DOI 10.1021/acs.jcim.7b00403</dc:identifier>
+                <prism:number>5</prism:number>
+                <dcterms:alternative>J. Chem. Inf. Model.</dcterms:alternative>
+                <dc:identifier>ISSN 1549-9596</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wallach</foaf:surname>
+                        <foaf:givenName>Izhar</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Heifets</foaf:surname>
+                        <foaf:givenName>Abraham</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Most Ligand-Based Classification Benchmarks Reward Memorization Rather than Generalization</dc:title>
+        <dcterms:abstract>Undetected overfitting can occur when there are significant redundancies between training and validation data. We describe AVE, a new measure of training–validation redundancy for ligand-based classification problems, that accounts for the similarity among inactive molecules as well as active ones. We investigated seven widely used benchmarks for virtual screening and classification, and we show that the amount of AVE bias strongly correlates with the performance of ligand-based predictive methods irrespective of the predicted property, chemical fingerprint, similarity measure, or previously applied unbiasing techniques. Therefore, it may be the case that the previously reported performance of most ligand-based methods can be explained by overfitting to benchmarks rather than good prospective accuracy.</dcterms:abstract>
+        <dc:date>May 29, 2018</dc:date>
+        <z:libraryCatalog>ACS Publications</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://doi.org/10.1021/acs.jcim.7b00403</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2018-09-05 08:06:10</dcterms:dateSubmitted>
+        <bib:pages>916-932</bib:pages>
+    </bib:Article>
+    <bib:Article rdf:about="https://doi.org/10.1021/acs.jcim.8b00773">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>59</prism:volume>
+                <dc:title>Journal of Chemical Information and Modeling</dc:title>
+                <dc:identifier>DOI 10.1021/acs.jcim.8b00773</dc:identifier>
+                <prism:number>3</prism:number>
+                <dcterms:alternative>J. Chem. Inf. Model.</dcterms:alternative>
+                <dc:identifier>ISSN 1549-9596</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Nogueira</foaf:surname>
+                        <foaf:givenName>Mauro S.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Koch</foaf:surname>
+                        <foaf:givenName>Oliver</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>The Development of Target-Specific Machine Learning Models as Scoring Functions for Docking-Based Target Prediction</dc:title>
+        <dcterms:abstract>The identification of possible targets for a known bioactive compound is of the utmost importance for drug design and development. Molecular docking is one possible approach for in-silico protein target prediction, whereas a molecule is docked into several different protein structures to identify potential targets. This reverse docking approach is hampered by the limitation of current scoring functions to correctly discriminate between targets and nontargets. In this work, a development of target-specific scoring functions is described that showed improved prediction performances for the correct target prediction of both actives and decoys on three validation data sets. In contrast to pure ligand-based approaches, that are in general faster and include a greater target space, docking-based approaches can cover also unknown chemical space that lies outside the known bioactivity data. These target-specific scoring functions are based on known bioactivity data retrieved from ChEMBL and supervised machine learning approaches. Neural Networks and Support Vector Machines (SVMs) models were trained for 20 different protein targets. Our protein–ligand interaction fingerprint PADIF (Protein Atom Score Contributions Derived Interaction Fingerprint) represents the input for training, whereas the PADIFs are calculated based on docking poses of active and inactive compounds. Different data sets of previously unseen molecules were used for the final evaluation and analysis of the prediction performance of the created models. For a single-target selectivity data set, the correct target model returns in most of the cases the highest probabilities scores for their active molecules and with statistically significant differences from the other targets. These probability scores were also predicted and successfully used to rank the targets for molecules of a multitarget data set with activity data described simultaneously for two, three, and four to seven protein targets.</dcterms:abstract>
+        <dc:date>March 25, 2019</dc:date>
+        <z:libraryCatalog>ACS Publications</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://doi.org/10.1021/acs.jcim.8b00773</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2019-06-04 13:04:57</dcterms:dateSubmitted>
+        <bib:pages>1238-1252</bib:pages>
+    </bib:Article>
+    <bib:Article rdf:about="http://dx.doi.org/10.1021/acs.jcim.7b00616">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>58</prism:volume>
+                <dc:title>Journal of Chemical Information and Modeling</dc:title>
+                <dc:identifier>DOI 10.1021/acs.jcim.7b00616</dc:identifier>
+                <prism:number>1</prism:number>
+                <dcterms:alternative>J. Chem. Inf. Model.</dcterms:alternative>
+                <dc:identifier>ISSN 1549-9596</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Jaeger</foaf:surname>
+                        <foaf:givenName>Sabrina</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Fulle</foaf:surname>
+                        <foaf:givenName>Simone</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Turk</foaf:surname>
+                        <foaf:givenName>Samo</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Mol2vec: Unsupervised Machine Learning Approach with Chemical Intuition</dc:title>
+        <dcterms:abstract>Inspired by natural language processing techniques, we here introduce Mol2vec, which is an unsupervised machine learning approach to learn vector representations of molecular substructures. Like the Word2vec models, where vectors of closely related words are in close proximity in the vector space, Mol2vec learns vector representations of molecular substructures that point in similar directions for chemically related substructures. Compounds can finally be encoded as vectors by summing the vectors of the individual substructures and, for instance, be fed into supervised machine learning approaches to predict compound properties. The underlying substructure vector embeddings are obtained by training an unsupervised machine learning approach on a so-called corpus of compounds that consists of all available chemical matter. The resulting Mol2vec model is pretrained once, yields dense vector representations, and overcomes drawbacks of common compound feature representations such as sparseness and bit collisions. The prediction capabilities are demonstrated on several compound property and bioactivity data sets and compared with results obtained for Morgan fingerprints as a reference compound representation. Mol2vec can be easily combined with ProtVec, which employs the same Word2vec concept on protein sequences, resulting in a proteochemometric approach that is alignment-independent and thus can also be easily used for proteins with low sequence similarities.</dcterms:abstract>
+        <dc:date>January 22, 2018</dc:date>
+        <z:shortTitle>Mol2vec</z:shortTitle>
+        <z:libraryCatalog>ACS Publications</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://dx.doi.org/10.1021/acs.jcim.7b00616</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2018-01-30 09:51:11</dcterms:dateSubmitted>
+        <bib:pages>27-35</bib:pages>
+    </bib:Article>
+    <bib:Article rdf:about="https://doi.org/10.1007/s10822-018-0146-6">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>33</prism:volume>
+                <dc:title>Journal of Computer-Aided Molecular Design</dc:title>
+                <dc:identifier>DOI 10.1007/s10822-018-0146-6</dc:identifier>
+                <prism:number>1</prism:number>
+                <dcterms:alternative>J Comput Aided Mol Des</dcterms:alternative>
+                <dc:identifier>ISSN 1573-4951</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Nguyen</foaf:surname>
+                        <foaf:givenName>Duc Duy</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Cang</foaf:surname>
+                        <foaf:givenName>Zixuan</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wu</foaf:surname>
+                        <foaf:givenName>Kedi</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wang</foaf:surname>
+                        <foaf:givenName>Menglun</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Cao</foaf:surname>
+                        <foaf:givenName>Yin</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wei</foaf:surname>
+                        <foaf:givenName>Guo-Wei</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Algebraic topology</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Binding affinity</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Drug design</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Graph theory</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Machine learning</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Pose prediction</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Mathematical deep learning for pose and binding affinity prediction and ranking in D3R Grand Challenges</dc:title>
+        <dcterms:abstract>Advanced mathematics, such as multiscale weighted colored subgraph and element specific persistent homology, and machine learning including deep neural networks were integrated to construct mathematical deep learning models for pose and binding affinity prediction and ranking in the last two D3R Grand Challenges in computer-aided drug design and discovery. D3R Grand Challenge 2 focused on the pose prediction, binding affinity ranking and free energy prediction for Farnesoid X receptor ligands. Our models obtained the top place in absolute free energy prediction for free energy set 1 in stage 2. The latest competition, D3R Grand Challenge 3 (GC3), is considered as the most difficult challenge so far. It has five subchallenges involving Cathepsin S and five other kinase targets, namely VEGFR2, JAK2, p38-α, TIE2, and ABL1. There is a total of 26 official competitive tasks for GC3. Our predictions were ranked 1st in 10 out of these 26 tasks.</dcterms:abstract>
+        <dc:date>2019-01-01</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>Springer Link</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://doi.org/10.1007/s10822-018-0146-6</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2019-02-18 12:37:49</dcterms:dateSubmitted>
+        <bib:pages>71-82</bib:pages>
+    </bib:Article>
+    <bib:Article rdf:about="https://doi.org/10.1007/s10822-019-00237-5">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>34</prism:volume>
+                <dc:title>Journal of Computer-Aided Molecular Design</dc:title>
+                <dc:identifier>DOI 10.1007/s10822-019-00237-5</dc:identifier>
+                <prism:number>2</prism:number>
+                <dcterms:alternative>J Comput Aided Mol Des</dcterms:alternative>
+                <dc:identifier>ISSN 1573-4951</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Nguyen</foaf:surname>
+                        <foaf:givenName>Duc Duy</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gao</foaf:surname>
+                        <foaf:givenName>Kaifu</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wang</foaf:surname>
+                        <foaf:givenName>Menglun</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wei</foaf:surname>
+                        <foaf:givenName>Guo-Wei</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>MathDL: mathematical deep learning for D3R Grand Challenge 4</dc:title>
+        <dcterms:abstract>We present the performances of our mathematical deep learning (MathDL) models for D3R Grand Challenge 4 (GC4). This challenge involves pose prediction, affinity ranking, and free energy estimation for beta secretase 1 (BACE) as well as affinity ranking and free energy estimation for Cathepsin S (CatS). We have developed advanced mathematics, namely differential geometry, algebraic graph, and/or algebraic topology, to accurately and efficiently encode high dimensional physical/chemical interactions into scalable low-dimensional rotational and translational invariant representations. These representations are integrated with deep learning models, such as generative adversarial networks (GAN) and convolutional neural networks (CNN) for pose prediction and energy evaluation, respectively. Overall, our MathDL models achieved the top place in pose prediction for BACE ligands in Stage 1a. Moreover, our submissions obtained the highest Spearman correlation coefficient on the affinity ranking of 460 CatS compounds, and the smallest centered root mean square error on the free energy set of 39 CatS molecules. It is worthy to mention that our method on docking pose predictions has significantly improved from our previous ones.</dcterms:abstract>
+        <dc:date>2020-02-01</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>MathDL</z:shortTitle>
+        <z:libraryCatalog>Springer Link</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://doi.org/10.1007/s10822-019-00237-5</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-02-20 09:11:15</dcterms:dateSubmitted>
+        <bib:pages>131-147</bib:pages>
+    </bib:Article>
+    <bib:Article rdf:about="https://doi.org/10.1021/acs.jcim.9b00684">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>59</prism:volume>
+                <dc:title>Journal of Chemical Information and Modeling</dc:title>
+                <dc:identifier>DOI 10.1021/acs.jcim.9b00684</dc:identifier>
+                <prism:number>12</prism:number>
+                <dcterms:alternative>J. Chem. Inf. Model.</dcterms:alternative>
+                <dc:identifier>ISSN 1549-9596</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Chen</foaf:surname>
+                        <foaf:givenName>Xingye</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Liu</foaf:surname>
+                        <foaf:givenName>Haichun</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Xie</foaf:surname>
+                        <foaf:givenName>Wuchen</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Yang</foaf:surname>
+                        <foaf:givenName>Yan</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wang</foaf:surname>
+                        <foaf:givenName>Yuchen</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Fan</foaf:surname>
+                        <foaf:givenName>Yuanrong</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hua</foaf:surname>
+                        <foaf:givenName>Yi</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zhu</foaf:surname>
+                        <foaf:givenName>Lu</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zhao</foaf:surname>
+                        <foaf:givenName>Junnan</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lu</foaf:surname>
+                        <foaf:givenName>Tao</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Chen</foaf:surname>
+                        <foaf:givenName>Yadong</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zhang</foaf:surname>
+                        <foaf:givenName>Yanmin</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Investigation of Crystal Structures in Structure-Based Virtual Screening for Protein Kinase Inhibitors</dc:title>
+        <dcterms:abstract>Protein kinases are important drug targets in several therapeutic areas ,and structure-based virtual screening (SBVS) is an important strategy in discovering lead compounds for kinase targets. However, there are multiple crystal structures available for each target, and determining which one is the most favorable is a key step in molecular docking for SBVS due to the ligand induce-fit effect. This work aimed to find the most desirable crystal structures for molecular docking by a comprehensive analysis of the protein kinase database which covers 190 different kinases from all eight main kinase families. Through an integrated self-docking and cross-docking evaluation, 86 targets were eventually evaluated on a total of 2608 crystal structures. Results showed that molecular docking has great capability in reproducing conformation of crystallized ligands and for each target, the most favorable crystal structure was selected, and the AGC family outperformed the other family targets based on RMSD comparison. In addition, RMSD values, GlideScore, and corresponding bioactivity data were compared and demonstrated certain relationships. This work provides great convenience for researchers to directly select the optimal crystal structure in SBVS-based kinase drug design and further validates the effectiveness of molecular docking in drug discovery.</dcterms:abstract>
+        <dc:date>2019-12-23</dc:date>
+        <z:libraryCatalog>ACS Publications</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://doi.org/10.1021/acs.jcim.9b00684</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-01-13 11:40:04</dcterms:dateSubmitted>
+        <bib:pages>5244-5262</bib:pages>
+    </bib:Article>
+    <bib:Article rdf:about="http://www.sciencedirect.com/science/article/pii/S1359644617304695">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>23</prism:volume>
+                <dc:title>Drug Discovery Today</dc:title>
+                <dc:identifier>DOI 10.1016/j.drudis.2018.05.010</dc:identifier>
+                <prism:number>8</prism:number>
+                <dcterms:alternative>Drug Discovery Today</dcterms:alternative>
+                <dc:identifier>ISSN 1359-6446</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lo</foaf:surname>
+                        <foaf:givenName>Yu-Chen</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Rensi</foaf:surname>
+                        <foaf:givenName>Stefano E.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Torng</foaf:surname>
+                        <foaf:givenName>Wen</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Altman</foaf:surname>
+                        <foaf:givenName>Russ B.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Machine learning in chemoinformatics and drug discovery</dc:title>
+        <dcterms:abstract>Chemoinformatics is an established discipline focusing on extracting, processing and extrapolating meaningful data from chemical structures. With the rapid explosion of chemical ‘big’ data from HTS and combinatorial synthesis, machine learning has become an indispensable tool for drug designers to mine chemical information from large compound databases to design drugs with important biological properties. To process the chemical data, we first reviewed multiple processing layers in the chemoinformatics pipeline followed by the introduction of commonly used machine learning models in drug discovery and QSAR analysis. Here, we present basic principles and recent case studies to demonstrate the utility of machine learning techniques in chemoinformatics analyses; and we discuss limitations and future directions to guide further development in this evolving field.</dcterms:abstract>
+        <dc:date>August 1, 2018</dc:date>
+        <z:libraryCatalog>ScienceDirect</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.sciencedirect.com/science/article/pii/S1359644617304695</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2018-09-11 15:17:53</dcterms:dateSubmitted>
+        <bib:pages>1538-1546</bib:pages>
+    </bib:Article>
+    <bib:Article rdf:about="http://dx.doi.org/10.1021/acscentsci.6b00367">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:2374-7943"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Altae-Tran</foaf:surname>
+                        <foaf:givenName>Han</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ramsundar</foaf:surname>
+                        <foaf:givenName>Bharath</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Pappu</foaf:surname>
+                        <foaf:givenName>Aneesh S.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Pande</foaf:surname>
+                        <foaf:givenName>Vijay</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Low Data Drug Discovery with One-Shot Learning</dc:title>
+        <dcterms:abstract>Recent advances in machine learning have made significant contributions to drug discovery. Deep neural networks in particular have been demonstrated to provide significant boosts in predictive power when inferring the properties and activities of small-molecule compounds (Ma, J. et al. J. Chem. Inf. Model. 2015, 55, 263–274). However, the applicability of these techniques has been limited by the requirement for large amounts of training data. In this work, we demonstrate how one-shot learning can be used to significantly lower the amounts of data required to make meaningful predictions in drug discovery applications. We introduce a new architecture, the iterative refinement long short-term memory, that, when combined with graph convolutional neural networks, significantly improves learning of meaningful distance metrics over small-molecules. We open source all models introduced in this work as part of DeepChem, an open-source framework for deep-learning in drug discovery (Ramsundar, B. deepchem.io. https://github.com/deepchem/deepchem, 2016).</dcterms:abstract>
+        <dc:date>April 26, 2017</dc:date>
+        <z:libraryCatalog>ACS Publications</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://dx.doi.org/10.1021/acscentsci.6b00367</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2017-06-06 13:20:30</dcterms:dateSubmitted>
+        <bib:pages>283-293</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:2374-7943">
+        <prism:volume>3</prism:volume>
+        <dc:title>ACS Central Science</dc:title>
+        <dc:identifier>DOI 10.1021/acscentsci.6b00367</dc:identifier>
+        <prism:number>4</prism:number>
+        <dcterms:alternative>ACS Cent. Sci.</dcterms:alternative>
+        <dc:identifier>ISSN 2374-7943</dc:identifier>
+    </bib:Journal>
+    <bib:Article rdf:about="http://dx.doi.org/10.1021/acs.jmedchem.7b00101">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0022-2623"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Nittinger</foaf:surname>
+                        <foaf:givenName>Eva</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Inhester</foaf:surname>
+                        <foaf:givenName>Therese</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bietz</foaf:surname>
+                        <foaf:givenName>Stefan</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Meyder</foaf:surname>
+                        <foaf:givenName>Agnes</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Schomburg</foaf:surname>
+                        <foaf:givenName>Karen T.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lange</foaf:surname>
+                        <foaf:givenName>Gudrun</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Klein</foaf:surname>
+                        <foaf:givenName>Robert</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Rarey</foaf:surname>
+                        <foaf:givenName>Matthias</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_75"/>
+        <dc:title>Large-Scale Analysis of Hydrogen Bond Interaction Patterns in Protein–Ligand Interfaces</dc:title>
+        <dcterms:abstract>Protein–ligand interactions are the fundamental basis for molecular design in pharmaceutical research, biocatalysis, and agrochemical development. Especially hydrogen bonds are known to have special geometric requirements and therefore deserve a detailed analysis. In modeling approaches a more general description of hydrogen bond geometries, using distance and directionality, is applied. A first study of their geometries was performed based on 15 protein structures in 1982. Currently there are about 95 000 protein–ligand structures available in the PDB, providing a solid foundation for a new large-scale statistical analysis. Here, we report a comprehensive investigation of geometric and functional properties of hydrogen bonds. Out of 22 defined functional groups, eight are fully in accordance with theoretical predictions while 14 show variations from expected values. On the basis of these results, we derived interaction geometries to improve current computational models. It is expected that these observations will be useful in designing new chemical structures for biological applications.</dcterms:abstract>
+        <dc:date>May 25, 2017</dc:date>
+        <z:libraryCatalog>ACS Publications</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://dx.doi.org/10.1021/acs.jmedchem.7b00101</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2017-05-26 11:25:25</dcterms:dateSubmitted>
+        <bib:pages>4245-4257</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0022-2623">
+        <prism:volume>60</prism:volume>
+        <dc:title>Journal of Medicinal Chemistry</dc:title>
+        <dc:identifier>DOI 10.1021/acs.jmedchem.7b00101</dc:identifier>
+        <prism:number>10</prism:number>
+        <dcterms:alternative>J. Med. Chem.</dcterms:alternative>
+        <dc:identifier>ISSN 0022-2623</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_75">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>ACS Full Text PDF w/ Links</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://pubs.acs.org/doi/pdfplus/10.1021/acs.jmedchem.7b00101</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2017-05-26 11:25:25</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://doi.org/10.1021/acs.jcim.8b00712">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>59</prism:volume>
+                <dc:title>Journal of Chemical Information and Modeling</dc:title>
+                <dc:identifier>DOI 10.1021/acs.jcim.8b00712</dc:identifier>
+                <prism:number>3</prism:number>
+                <dcterms:alternative>J. Chem. Inf. Model.</dcterms:alternative>
+                <dc:identifier>ISSN 1549-9596</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sieg</foaf:surname>
+                        <foaf:givenName>Jochen</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Flachsenberg</foaf:surname>
+                        <foaf:givenName>Florian</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Rarey</foaf:surname>
+                        <foaf:givenName>Matthias</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>In Need of Bias Control: Evaluating Chemical Data for Machine Learning in Structure-Based Virtual Screening</dc:title>
+        <dcterms:abstract>Reports of successful applications of machine learning (ML) methods in structure-based virtual screening (SBVS) are increasing. ML methods such as convolutional neural networks show promising results and often outperform traditional methods such as empirical scoring functions in retrospective validation. However, trained ML models are often treated as black boxes and are not straightforwardly interpretable. In most cases, it is unknown which features in the data are decisive and whether a model’s predictions are right for the right reason. Hence, we re-evaluated three widely used benchmark data sets in the context of ML methods and came to the conclusion that not every benchmark data set is suitable. Moreover, we demonstrate on two examples from current literature that bias is learned implicitly and unnoticed from standard benchmarks. On the basis of these results, we conclude that there is a need for eligible validation experiments and benchmark data sets suited to ML for more bias-controlled validation in ML-based SBVS. Therefore, we provide guidelines for setting up validation experiments and give a perspective on how new data sets could be generated.</dcterms:abstract>
+        <dc:date>March 25, 2019</dc:date>
+        <z:shortTitle>In Need of Bias Control</z:shortTitle>
+        <z:libraryCatalog>ACS Publications</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://doi.org/10.1021/acs.jcim.8b00712</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2019-06-04 13:26:41</dcterms:dateSubmitted>
+        <bib:pages>947-961</bib:pages>
+    </bib:Article>
+    <bib:Article rdf:about="https://www.pnas.org/content/117/3/1496">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0027-8424,%201091-6490"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Yang</foaf:surname>
+                        <foaf:givenName>Jianyi</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Anishchenko</foaf:surname>
+                        <foaf:givenName>Ivan</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Park</foaf:surname>
+                        <foaf:givenName>Hahnbeom</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Peng</foaf:surname>
+                        <foaf:givenName>Zhenling</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ovchinnikov</foaf:surname>
+                        <foaf:givenName>Sergey</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Baker</foaf:surname>
+                        <foaf:givenName>David</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_96"/>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>deep learning</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>protein contact prediction</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>protein structure prediction</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Improved protein structure prediction using predicted interresidue orientations</dc:title>
+        <dcterms:abstract>The prediction of interresidue contacts and distances from coevolutionary data using deep learning has considerably advanced protein structure prediction. Here, we build on these advances by developing a deep residual network for predicting interresidue orientations, in addition to distances, and a Rosetta-constrained energy-minimization protocol for rapidly and accurately generating structure models guided by these restraints. In benchmark tests on 13th Community-Wide Experiment on the Critical Assessment of Techniques for Protein Structure Prediction (CASP13)- and Continuous Automated Model Evaluation (CAMEO)-derived sets, the method outperforms all previously described structure-prediction methods. Although trained entirely on native proteins, the network consistently assigns higher probability to de novo-designed proteins, identifying the key fold-determining residues and providing an independent quantitative measure of the “ideality” of a protein structure. The method promises to be useful for a broad range of protein structure prediction and design problems.</dcterms:abstract>
+        <dc:date>2020/01/21</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>www.pnas.org</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://www.pnas.org/content/117/3/1496</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-01-23 09:19:29</dcterms:dateSubmitted>
+        <dc:rights>© 2020 . https://www.pnas.org/site/aboutpnas/licenses.xhtmlPublished under the PNAS license.</dc:rights>
+        <dc:description>PMID: 31896580</dc:description>
+        <bib:pages>1496-1503</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0027-8424,%201091-6490">
+        <prism:volume>117</prism:volume>
+        <dc:title>Proceedings of the National Academy of Sciences</dc:title>
+        <dc:identifier>DOI 10.1073/pnas.1914677117</dc:identifier>
+        <prism:number>3</prism:number>
+        <dcterms:alternative>PNAS</dcterms:alternative>
+        <dc:identifier>ISSN 0027-8424, 1091-6490</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_96">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>PubMed entry</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://www.ncbi.nlm.nih.gov/pubmed/31896580</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-01-23 09:19:30</dcterms:dateSubmitted>
+        <z:linkMode>3</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_38">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dc:title>Nature</dc:title>
+                <dc:identifier>DOI 10.1038/s41586-019-1923-7</dc:identifier>
+                <dcterms:alternative>Nature</dcterms:alternative>
+                <dc:identifier>ISSN 1476-4687</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Senior</foaf:surname>
+                        <foaf:givenName>Andrew W.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Evans</foaf:surname>
+                        <foaf:givenName>Richard</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Jumper</foaf:surname>
+                        <foaf:givenName>John</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kirkpatrick</foaf:surname>
+                        <foaf:givenName>James</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sifre</foaf:surname>
+                        <foaf:givenName>Laurent</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Green</foaf:surname>
+                        <foaf:givenName>Tim</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Qin</foaf:surname>
+                        <foaf:givenName>Chongli</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Žídek</foaf:surname>
+                        <foaf:givenName>Augustin</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Nelson</foaf:surname>
+                        <foaf:givenName>Alexander W. R.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bridgland</foaf:surname>
+                        <foaf:givenName>Alex</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Penedones</foaf:surname>
+                        <foaf:givenName>Hugo</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Petersen</foaf:surname>
+                        <foaf:givenName>Stig</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Simonyan</foaf:surname>
+                        <foaf:givenName>Karen</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Crossan</foaf:surname>
+                        <foaf:givenName>Steve</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kohli</foaf:surname>
+                        <foaf:givenName>Pushmeet</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Jones</foaf:surname>
+                        <foaf:givenName>David T.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Silver</foaf:surname>
+                        <foaf:givenName>David</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kavukcuoglu</foaf:surname>
+                        <foaf:givenName>Koray</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hassabis</foaf:surname>
+                        <foaf:givenName>Demis</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Improved protein structure prediction using potentials from deep learning</dc:title>
+        <dcterms:abstract>Protein structure prediction can be used to determine the three-dimensional shape of a protein from its amino acid sequence1. This problem is of fundamental importance as the structure of a protein largely determines its function2; however, protein structures can be difficult to determine experimentally. Considerable progress has recently been made by leveraging genetic information. It is possible to infer which amino acid residues are in contact by analysing covariation in homologous sequences, which aids in the prediction of protein structures3. Here we show that we can train a neural network to make accurate predictions of the distances between pairs of residues, which convey more information about the structure than contact predictions. Using this information, we construct a potential of mean force4 that can accurately describe the shape of a protein. We find that the resulting potential can be optimized by a simple gradient descent algorithm to generate structures without complex sampling procedures. The resulting system, named AlphaFold, achieves high accuracy, even for sequences with fewer homologous sequences. In the recent Critical Assessment of Protein Structure Prediction5 (CASP13)-a blind assessment of the state of the field-AlphaFold created high-accuracy structures (with template modelling (TM) scores6 of 0.7 or higher) for 24 out of 43 free modelling domains, whereas the next best method, which used sampling and contact information, achieved such accuracy for only 14 out of 43 domains. AlphaFold represents a considerable advance in protein-structure prediction. We expect this increased accuracy to enable insights into the function and malfunction of proteins, especially in cases for which no structures for homologous proteins have been experimentally determined7.</dcterms:abstract>
+        <dc:date>Jan 15, 2020</dc:date>
+        <z:language>eng</z:language>
+        <z:libraryCatalog>PubMed</z:libraryCatalog>
+        <dc:description>PMID: 31942072</dc:description>
+    </bib:Article>
+    <bib:Article rdf:about="https://doi.org/10.1021/acs.jcim.8b00673">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>59</prism:volume>
+                <dc:title>Journal of Chemical Information and Modeling</dc:title>
+                <dc:identifier>DOI 10.1021/acs.jcim.8b00673</dc:identifier>
+                <prism:number>3</prism:number>
+                <dcterms:alternative>J. Chem. Inf. Model.</dcterms:alternative>
+                <dc:identifier>ISSN 1549-9596</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Yasuo</foaf:surname>
+                        <foaf:givenName>Nobuaki</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sekijima</foaf:surname>
+                        <foaf:givenName>Masakazu</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Improved Method of Structure-Based Virtual Screening via Interaction-Energy-Based Learning</dc:title>
+        <dcterms:abstract>Virtual screening is a promising method for obtaining novel hit compounds in drug discovery. It aims to enrich potentially active compounds from a large chemical library for further biological experiments. However, the accuracy of current virtual screening methods is insufficient. In this study, we develop a new virtual screening method named Similarity of Interaction Energy VEctor Score (SIEVE-Score), in which protein–ligand interaction energies are extracted to represent docking poses for machine learning. SIEVE-Score offers substantial improvements compared to other state-of-the-art virtual screening methods, namely, other machine-learning-based scoring functions, interaction fingerprints, and docking software, for the enrichment factor 1% results on the Directory of Useful Decoys, Enhanced (DUD-E). The screening results are also human-interpretable in the form of important interactions for distinguishing between active and inactive compounds. The source code is available at https://github.com/sekijima-lab/SIEVE-Score.</dcterms:abstract>
+        <dc:date>March 25, 2019</dc:date>
+        <z:libraryCatalog>ACS Publications</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://doi.org/10.1021/acs.jcim.8b00673</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2019-06-04 13:10:29</dcterms:dateSubmitted>
+        <bib:pages>1050-1061</bib:pages>
+    </bib:Article>
+    <bib:Article rdf:about="https://doi.org/10.1021/acs.jmedchem.8b01453">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>62</prism:volume>
+                <dc:title>Journal of Medicinal Chemistry</dc:title>
+                <dc:identifier>DOI 10.1021/acs.jmedchem.8b01453</dc:identifier>
+                <prism:number>21</prism:number>
+                <dcterms:alternative>J. Med. Chem.</dcterms:alternative>
+                <dc:identifier>ISSN 0022-2623</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Shinada</foaf:surname>
+                        <foaf:givenName>Nicolas K.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>de Brevern</foaf:surname>
+                        <foaf:givenName>Alexandre G.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Schmidtke</foaf:surname>
+                        <foaf:givenName>Peter</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Halogens in Protein–Ligand Binding Mechanism: A Structural Perspective</dc:title>
+        <dcterms:abstract>Halogen atoms have been at the center of many rational medicinal chemistry applications in drug design. While fluorine and chlorine atoms are often added to enhance physicochemical properties, bromine and iodine elements are generally inserted to improve selectivity. Favorable halogen interactions such as halogen bond have been thoroughly studied through quantum mechanics and statistical analyses. Although most of the studies focus on halogen interaction through its σ-hole, hydrogen bonding also has a significant impact. Here, we present an analysis describing the interacting environment of halogen atoms in protein–ligand context. With consideration of structural redundancy in the PDB, tendencies toward specific molecular interactions consideration have been refined and implications for rational drug design with halogens further discussed. Finally, we highlight the moderate occurrence of halogen bonding and present the other roles of halogen in protein–ligand complexes, completing the medicinal chemistry guide to rational halogen interactions.</dcterms:abstract>
+        <dc:date>2019-11-14</dc:date>
+        <z:shortTitle>Halogens in Protein–Ligand Binding Mechanism</z:shortTitle>
+        <z:libraryCatalog>ACS Publications</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://doi.org/10.1021/acs.jmedchem.8b01453</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2019-11-22 09:08:44</dcterms:dateSubmitted>
+        <bib:pages>9341-9356</bib:pages>
+    </bib:Article>
+    <bib:Document rdf:about="https://link.springer.com/article/10.1007/s10822-019-00218-8?wt_mc=alerts.TOCjournals&amp;utm_source=toc&amp;utm_medium=email&amp;utm_campaign=toc_10822_33_8">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <dc:title>Evaluation of different virtual screening strategies on the basis of compound sets with characteristic core distributions and dissimilarity relationships | SpringerLink</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://link.springer.com/article/10.1007/s10822-019-00218-8?wt_mc=alerts.TOCjournals&amp;utm_source=toc&amp;utm_medium=email&amp;utm_campaign=toc_10822_33_8</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2019-10-24 14:22:42</dcterms:dateSubmitted>
+    </bib:Document>
+    <bib:Article rdf:about="https://doi.org/10.1021/acs.jcim.9b00689">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>59</prism:volume>
+                <dc:title>Journal of Chemical Information and Modeling</dc:title>
+                <dc:identifier>DOI 10.1021/acs.jcim.9b00689</dc:identifier>
+                <prism:number>12</prism:number>
+                <dcterms:alternative>J. Chem. Inf. Model.</dcterms:alternative>
+                <dc:identifier>ISSN 1549-9596</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Leśniak</foaf:surname>
+                        <foaf:givenName>Damian</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Podlewska</foaf:surname>
+                        <foaf:givenName>Sabina</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Jastrzębski</foaf:surname>
+                        <foaf:givenName>Stanisław</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sieradzki</foaf:surname>
+                        <foaf:givenName>Igor</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bojarski</foaf:surname>
+                        <foaf:givenName>Andrzej J.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Tabor</foaf:surname>
+                        <foaf:givenName>Jacek</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Development of New Methods Needs Proper Evaluation—Benchmarking Sets for Machine Learning Experiments for Class A GPCRs</dc:title>
+        <dcterms:abstract>New computational approaches for virtual screening applications are constantly being developed. However, before a particular tool is used to search for new active compounds, its effectiveness in the type of task must be examined. In this study, we conducted a detailed analysis of various aspects of preparation of respective data sets for such an evaluation. We propose a protocol for fetching data from the ChEMBL database, examine various compound representations in terms of the possible bias resulting from the way they are generated, and define a new metric for comparing the structural similarity of compounds, which is in line with chemical intuition. The newly developed method is also used for the evaluation of various approaches for division of the data set into training and test set parts, which are also examined in detail in terms of being the source of possible results bias. Finally, machine learning methods are applied in cross-validation studies of data sets constructed within the paper, constituting benchmarks for the assessment of computational methods developed for virtual screening tasks. Additionally, analogous data sets for class A G protein-coupled receptors (100 targets with the highest number of records) were prepared. They are available at http://gmum.net/benchmarks/, together with script enabling reproduction of all results available at https://github.com/lesniak43/ananas.</dcterms:abstract>
+        <dc:date>2019-12-23</dc:date>
+        <z:libraryCatalog>ACS Publications</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://doi.org/10.1021/acs.jcim.9b00689</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-01-13 11:42:16</dcterms:dateSubmitted>
+        <bib:pages>4974-4992</bib:pages>
+    </bib:Article>
+    <bib:Article rdf:about="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006718">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1553-7358"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Pu</foaf:surname>
+                        <foaf:givenName>Limeng</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Govindaraj</foaf:surname>
+                        <foaf:givenName>Rajiv Gandhi</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lemoine</foaf:surname>
+                        <foaf:givenName>Jeffrey Mitchell</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wu</foaf:surname>
+                        <foaf:givenName>Hsiao-Chun</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Brylinski</foaf:surname>
+                        <foaf:givenName>Michal</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Binding analysis</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Deep learning</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Heme</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Hydrogen bonding</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Nucleotides</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Proteases</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Protein interactions</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Protein structure</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>DeepDrug3D: Classification of ligand-binding pockets in proteins with a convolutional neural network</dc:title>
+        <dcterms:abstract>Comprehensive characterization of ligand-binding sites is invaluable to infer molecular functions of hypothetical proteins, trace evolutionary relationships between proteins, engineer enzymes to achieve a desired substrate specificity, and develop drugs with improved selectivity profiles. These research efforts pose significant challenges owing to the fact that similar pockets are commonly observed across different folds, leading to the high degree of promiscuity of ligand-protein interactions at the system-level. On that account, novel algorithms to accurately classify binding sites are needed. Deep learning is attracting a significant attention due to its successful applications in a wide range of disciplines. In this communication, we present DeepDrug3D, a new approach to characterize and classify binding pockets in proteins with deep learning. It employs a state-of-the-art convolutional neural network in which biomolecular structures are represented as voxels assigned interaction energy-based attributes. The current implementation of DeepDrug3D, trained to detect and classify nucleotide- and heme-binding sites, not only achieves a high accuracy of 95%, but also has the ability to generalize to unseen data as demonstrated for steroid-binding proteins and peptidase enzymes. Interestingly, the analysis of strongly discriminative regions of binding pockets reveals that this high classification accuracy arises from learning the patterns of specific molecular interactions, such as hydrogen bonds, aromatic and hydrophobic contacts. DeepDrug3D is available as an open-source program at https://github.com/pulimeng/DeepDrug3D with the accompanying TOUGH-C1 benchmarking dataset accessible from https://osf.io/enz69/.</dcterms:abstract>
+        <dc:date>Feb 4, 2019</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>DeepDrug3D</z:shortTitle>
+        <z:libraryCatalog>PLoS Journals</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006718</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2019-03-05 16:05:27</dcterms:dateSubmitted>
+        <bib:pages>e1006718</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1553-7358">
+        <prism:volume>15</prism:volume>
+        <dc:title>PLOS Computational Biology</dc:title>
+        <dc:identifier>DOI 10.1371/journal.pcbi.1006718</dc:identifier>
+        <prism:number>2</prism:number>
+        <dcterms:alternative>PLOS Computational Biology</dcterms:alternative>
+        <dc:identifier>ISSN 1553-7358</dc:identifier>
+    </bib:Journal>
+    <bib:Article rdf:about="https://doi.org/10.1021/acs.jcim.8b00542">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>59</prism:volume>
+                <dc:title>Journal of Chemical Information and Modeling</dc:title>
+                <dc:identifier>DOI 10.1021/acs.jcim.8b00542</dc:identifier>
+                <prism:number>3</prism:number>
+                <dcterms:alternative>J. Chem. Inf. Model.</dcterms:alternative>
+                <dc:identifier>ISSN 1549-9596</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Cortés-Ciriano</foaf:surname>
+                        <foaf:givenName>Isidro</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bender</foaf:surname>
+                        <foaf:givenName>Andreas</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Deep Confidence: A Computationally Efficient Framework for Calculating Reliable Prediction Errors for Deep Neural Networks</dc:title>
+        <dcterms:abstract>Deep learning architectures have proved versatile in a number of drug discovery applications, including the modeling of in vitro compound activity. While controlling for prediction confidence is essential to increase the trust, interpretability, and usefulness of virtual screening models in drug discovery, techniques to estimate the reliability of the predictions generated with deep learning networks remain largely underexplored. Here, we present Deep Confidence, a framework to compute valid and efficient confidence intervals for individual predictions using the deep learning technique Snapshot Ensembling and conformal prediction. Specifically, Deep Confidence generates an ensemble of deep neural networks by recording the network parameters throughout the local minima visited during the optimization phase of a single neural network. This approach serves to derive a set of base learners (i.e., snapshots) with comparable predictive power on average that will however generate slightly different predictions for a given instance. The variability across base learners and the validation residuals are in turn harnessed to compute confidence intervals using the conformal prediction framework. Using a set of 24 diverse IC50 data sets from ChEMBL 23, we show that Snapshot Ensembles perform on par with Random Forest (RF) and ensembles of independently trained deep neural networks. In addition, we find that the confidence regions predicted using the Deep Confidence framework span a narrower set of values. Overall, Deep Confidence represents a highly versatile error prediction framework that can be applied to any deep learning-based application at no extra computational cost.</dcterms:abstract>
+        <dc:date>March 25, 2019</dc:date>
+        <z:shortTitle>Deep Confidence</z:shortTitle>
+        <z:libraryCatalog>ACS Publications</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://doi.org/10.1021/acs.jcim.8b00542</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2019-06-04 12:54:10</dcterms:dateSubmitted>
+        <bib:pages>1269-1281</bib:pages>
+    </bib:Article>
+    <bib:Article rdf:about="https://doi.org/10.1021/acs.jmedchem.9b01931">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>63</prism:volume>
+                <dc:title>Journal of Medicinal Chemistry</dc:title>
+                <dc:identifier>DOI 10.1021/acs.jmedchem.9b01931</dc:identifier>
+                <prism:number>3</prism:number>
+                <dcterms:alternative>J. Med. Chem.</dcterms:alternative>
+                <dc:identifier>ISSN 0022-2623</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bonanni</foaf:surname>
+                        <foaf:givenName>Davide</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lolli</foaf:surname>
+                        <foaf:givenName>Marco L.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bajorath</foaf:surname>
+                        <foaf:givenName>Jürgen</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Computational Method for Structure-Based Analysis of SAR Transfer</dc:title>
+        <dcterms:abstract>The identification of different compound series with corresponding structure–activity relationship (SAR) progression for a given target is referred to as SAR transfer, which is of interest in lead optimization. If difficulties are encountered during multiproperty optimization, the SAR transfer concept can be applied attempting to replace a lead compound with another candidate. For a systematic assessment of SAR transfer, computational approaches are required. So far, SAR transfer has been investigated at the level of compounds and analogue series. Herein, we introduce a new computational method for structure-guided exploration of SAR transfer. The approach relies on a three-dimensional molecular fragmentation and recombination scheme and the identification of analogues of crystallographic ligands. On the basis of spatially aligned X-ray ligands, alternative substituents and compound cores are identified, enabling the detection of multiple SAR transfer events. Application of the methodology across different targets identified SAR transfer events with high frequency.</dcterms:abstract>
+        <dc:date>2020-02-13</dc:date>
+        <z:libraryCatalog>ACS Publications</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://doi.org/10.1021/acs.jmedchem.9b01931</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-02-14 10:29:55</dcterms:dateSubmitted>
+        <bib:pages>1388-1396</bib:pages>
+    </bib:Article>
+    <bib:Article rdf:about="https://doi.org/10.1021/acs.jmedchem.9b01545">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>62</prism:volume>
+                <dc:title>Journal of Medicinal Chemistry</dc:title>
+                <dc:identifier>DOI 10.1021/acs.jmedchem.9b01545</dc:identifier>
+                <prism:number>22</prism:number>
+                <dcterms:alternative>J. Med. Chem.</dcterms:alternative>
+                <dc:identifier>ISSN 0022-2623</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kuhn</foaf:surname>
+                        <foaf:givenName>Bernd</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gilberg</foaf:surname>
+                        <foaf:givenName>Erik</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Taylor</foaf:surname>
+                        <foaf:givenName>Robin</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Cole</foaf:surname>
+                        <foaf:givenName>Jason</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Korb</foaf:surname>
+                        <foaf:givenName>Oliver</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>How Significant Are Unusual Protein–Ligand Interactions? Insights from Database Mining</dc:title>
+        <dcterms:abstract>We present a new approach to derive interaction propensities of protein–ligand atom pairs from mining of the Protein Data Bank. To ensure solid statistics, we use a line-of-sight contact filter and normalize the observed frequency of hits by a statistical null model based on exposed surface areas of atom types in the protein–ligand binding site. This allows us to investigate which intermolecular interactions and geometries are found more often than expected by chance in protein–ligand complexes. We focus our study on some of the unusual interactions that were postulated to be favorable, including σ-hole bonding of halogen and sulfur atoms, weak hydrogen bonding with fluorine as acceptor, and different types of dipolar interactions. Our results confirm some and challenge other common assumptions on these interactions and highlight other contact types that are yet underexplored in structure-based drug design.</dcterms:abstract>
+        <dc:date>2019-11-27</dc:date>
+        <z:shortTitle>How Significant Are Unusual Protein–Ligand Interactions?</z:shortTitle>
+        <z:libraryCatalog>ACS Publications</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://doi.org/10.1021/acs.jmedchem.9b01545</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2019-12-05 16:31:48</dcterms:dateSubmitted>
+        <bib:pages>10441-10455</bib:pages>
+    </bib:Article>
+    <bib:Article rdf:about="http://science.sciencemag.org/content/360/6388/478">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>360</prism:volume>
+                <dc:title>Science</dc:title>
+                <dc:identifier>DOI 10.1126/science.360.6388.478</dc:identifier>
+                <prism:number>6388</prism:number>
+                <dc:identifier>ISSN 0036-8075, 1095-9203</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hutson</foaf:surname>
+                        <foaf:givenName>Matthew</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Has artificial intelligence become alchemy?</dc:title>
+        <dcterms:abstract>Ali Rahimi, a researcher in artificial intelligence (AI) at Google in San Francisco, California, has charged that machine learning algorithms, in which computers learn through trial and error, have become a form of &quot;alchemy.&quot; Researchers, he says, do not know why some algorithms work and others don't, nor do they have rigorous criteria for choosing one AI architecture over another. Now, in a paper presented on 30 April at the International Conference on Learning Representations in Vancouver, Canada, Rahimi and his collaborators document examples of what they see as the alchemy problem and offer prescriptions for bolstering AI's rigor. The issue is distinct from AI's reproducibility problem, in which researchers can't replicate each other's results because of inconsistent experimental and publication practices. It also differs from the &quot;black box&quot; or &quot;interpretability&quot; problem in machine learning: the difficulty of explaining how a particular AI has come to its conclusions.
+Machine learning needs more rigor, scientists argue.
+Machine learning needs more rigor, scientists argue.</dcterms:abstract>
+        <dc:date>2018/05/04</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>science.sciencemag.org</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://science.sciencemag.org/content/360/6388/478</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2018-05-04 07:54:06</dcterms:dateSubmitted>
+        <dc:rights>Copyright © 2018 The Authors, some rights reserved; exclusive licensee American Association for the Advancement of Science. No claim to original U.S. Government Works</dc:rights>
+        <bib:pages>478-478</bib:pages>
+    </bib:Article>
+    <bib:Article rdf:about="http://www.sciencedirect.com/science/article/pii/S1359644616302483">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>21</prism:volume>
+                <dc:title>Drug Discovery Today</dc:title>
+                <dc:identifier>DOI 10.1016/j.drudis.2016.06.030</dc:identifier>
+                <prism:number>12</prism:number>
+                <dcterms:alternative>Drug Discovery Today</dcterms:alternative>
+                <dc:identifier>ISSN 1359-6446</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Guvench</foaf:surname>
+                        <foaf:givenName>Olgun</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_74"/>
+        <dc:title>Computational functional group mapping for drug discovery</dc:title>
+        <dcterms:abstract>Computational functional group mapping (cFGM) is emerging as a high-impact complement to existing widely used experimental and computational structure-based drug discovery methods. cFGM provides comprehensive atomic-resolution 3D maps of the affinity of functional groups that can constitute drug-like molecules for a given target, typically a protein. These 3D maps can be intuitively and interactively visualized by medicinal chemists to rapidly design synthetically accessible ligands. Given that the maps can inform selection of functional groups for affinity, specificity, and pharmacokinetic properties, they are of utility for both the optimization of existing drug candidates and creating novel ones. Here, I review recent advances in cFGM with emphasis on the unique information content in the approach that offers the potential of broadly facilitating structure-based ligand design.</dcterms:abstract>
+        <dc:date>December 2016</dc:date>
+        <z:libraryCatalog>ScienceDirect</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.sciencedirect.com/science/article/pii/S1359644616302483</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2016-12-21 09:36:06</dcterms:dateSubmitted>
+        <bib:pages>1928-1931</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_74">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>ScienceDirect Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.sciencedirect.com/science/article/pii/S1359644616302483/pdfft?md5=103da7cceecbc00bfd828a971758a76e&amp;pid=1-s2.0-S1359644616302483-main.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2016-12-21 09:36:06</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://doi.org/10.1021/acs.jcim.9b00627">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>59</prism:volume>
+                <dc:title>Journal of Chemical Information and Modeling</dc:title>
+                <dc:identifier>DOI 10.1021/acs.jcim.9b00627</dc:identifier>
+                <prism:number>11</prism:number>
+                <dcterms:alternative>J. Chem. Inf. Model.</dcterms:alternative>
+                <dc:identifier>ISSN 1549-9596</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bastolla</foaf:surname>
+                        <foaf:givenName>Ugo</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Dehouck</foaf:surname>
+                        <foaf:givenName>Yves</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Can Conformational Changes of Proteins Be Represented in Torsion Angle Space? A Study with Rescaled Ridge Regression</dc:title>
+        <dcterms:abstract>Torsion angles are the natural degrees of freedom of protein structures. The ability to determine torsional variations corresponding to observed changes in Cartesian coordinates is highly valuable, notably to investigate the mechanisms of functional conformational changes or to develop computational models of protein dynamics. This issue is far from trivial in practice since the impact of modifying one torsion angle strongly depends on all other angles, and the compounding effects of small variations in bond lengths and valence angles can completely disrupt a protein fold. We demonstrate that naive strategies, such as directly comparing torsion angles between structures without correcting for variations in bond lengths and valence angles or fitting torsional variations without a proper regularization scheme, fail at producing an adequate representation of conformational changes in internal coordinates. In contrast, rescaled ridge regression, a method recently introduced to regularize multidimensional regressions with correlated explanatory variables, is shown to consistently identify a minimal set of torsion angles variations that closely reproduce changes in Cartesian coordinates. This torsional representation of conformational changes is shown to be robust to the choice of experimental structures. It also provides a better agreement with theoretical models of protein dynamics than the Cartesian representation, regarding notably the predominance of low-frequency normal modes in functional motions and the presence, in predicted equilibrium dynamics, of hints of natural selection for specific functional motions. The software is available at https://github.com/ugobas/tnm.</dcterms:abstract>
+        <dc:date>2019-11-25</dc:date>
+        <z:shortTitle>Can Conformational Changes of Proteins Be Represented in Torsion Angle Space?</z:shortTitle>
+        <z:libraryCatalog>ACS Publications</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://doi.org/10.1021/acs.jcim.9b00627</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2019-11-26 17:28:38</dcterms:dateSubmitted>
+        <bib:pages>4929-4941</bib:pages>
+    </bib:Article>
+    <bib:Article rdf:about="https://doi.org/10.1021/acschembio.8b00881">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1554-8929"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Chuang</foaf:surname>
+                        <foaf:givenName>Kangway V.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Keiser</foaf:surname>
+                        <foaf:givenName>Michael J.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Adversarial Controls for Scientific Machine Learning</dc:title>
+        <dcterms:abstract>New machine learning methods to analyze raw chemical and biological data are now widely accessible as open-source toolkits. This positions researchers to leverage powerful, predictive models in their own domains. We caution, however, that the application of machine learning to experimental research merits careful consideration. Machine learning algorithms readily exploit confounding variables and experimental artifacts instead of relevant patterns, leading to overoptimistic performance and poor model generalization. In parallel to the strong control experiments that remain a cornerstone of experimental research, we advance the concept of adversarial controls for scientific machine learning: the design of exacting and purposeful experiments to ensure that predictive performance arises from meaningful models.</dcterms:abstract>
+        <dc:date>October 19, 2018</dc:date>
+        <z:libraryCatalog>ACS Publications</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://doi.org/10.1021/acschembio.8b00881</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2018-10-19 14:50:13</dcterms:dateSubmitted>
+        <bib:pages>2819-2821</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1554-8929">
+        <prism:volume>13</prism:volume>
+        <dc:title>ACS Chemical Biology</dc:title>
+        <dc:identifier>DOI 10.1021/acschembio.8b00881</dc:identifier>
+        <prism:number>10</prism:number>
+        <dcterms:alternative>ACS Chem. Biol.</dcterms:alternative>
+        <dc:identifier>ISSN 1554-8929</dc:identifier>
+    </bib:Journal>
+    <bib:Article rdf:about="https://doi.org/10.1007/s10822-018-0181-3">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>33</prism:volume>
+                <dc:title>Journal of Computer-Aided Molecular Design</dc:title>
+                <dc:identifier>DOI 10.1007/s10822-018-0181-3</dc:identifier>
+                <prism:number>2</prism:number>
+                <dcterms:alternative>J Comput Aided Mol Des</dcterms:alternative>
+                <dc:identifier>ISSN 1573-4951</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Fusani</foaf:surname>
+                        <foaf:givenName>Lucia</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Cabrera</foaf:surname>
+                        <foaf:givenName>Alvaro Cortes</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Active learning</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>BRD4</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>COMBINE</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>HIV</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Protease</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>QSAR</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Regression</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Taxanes</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Active learning strategies with COMBINE analysis: new tricks for an old dog</dc:title>
+        <dcterms:abstract>The COMBINE method was designed to study congeneric series of compounds including structural information of ligand–protein complexes. Although very successful, the method has not received the same level of attention than other alternatives to study Quantitative Structure Active Relationships (QSAR) mainly because lack of ways to measure the uncertainty of the predictions and the need for large datasets. Active learning, a semi-supervised learning approach that makes use of uncertainty to enhance models’ performance while reducing the size of the training sets, has been used in this work to address both problems. We propose two estimators of uncertainty: the pool of regressors and the distance to the training set. The performance of the methods has been evaluated by testing the resulting active learning workflows in 3 diverse datasets: HIV-1 protease inhibitors, Taxol-derivatives and BRD4 inhibitors. The proposed strategies were successful in 80% of the cases for the taxol-derivatives and BRD4 inhibitors, while outperformed random selection in the case of the HIV-1 protease inhibitors time-split. Our results suggest that AL-COMBINE might be an effective way of producing consistently superior QSAR models with a limited number of samples.</dcterms:abstract>
+        <dc:date>2019-02-01</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>Active learning strategies with COMBINE analysis</z:shortTitle>
+        <z:libraryCatalog>Springer Link</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://doi.org/10.1007/s10822-018-0181-3</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2019-03-19 11:43:00</dcterms:dateSubmitted>
+        <bib:pages>287-294</bib:pages>
+    </bib:Article>
+    <bib:Article rdf:about="https://www.pnas.org/content/117/2/1059">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>117</prism:volume>
+                <dc:title>Proceedings of the National Academy of Sciences</dc:title>
+                <dc:identifier>DOI 10.1073/pnas.1908723117</dc:identifier>
+                <prism:number>2</prism:number>
+                <dcterms:alternative>PNAS</dcterms:alternative>
+                <dc:identifier>ISSN 0027-8424, 1091-6490</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zhou</foaf:surname>
+                        <foaf:givenName>Jianfu</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Panaitiu</foaf:surname>
+                        <foaf:givenName>Alexandra E.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Grigoryan</foaf:surname>
+                        <foaf:givenName>Gevorg</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_122"/>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>data-driven protein design</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>protein design</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>protein structure</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>structure search</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>structure-based analysis</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>A general-purpose protein design framework based on mining sequence–structure relationships in known protein structures</dc:title>
+        <dcterms:abstract>Current state-of-the-art approaches to computational protein design (CPD) aim to capture the determinants of structure from physical principles. While this has led to many successful designs, it does have strong limitations associated with inaccuracies in physical modeling, such that a reliable general solution to CPD has yet to be found. Here, we propose a design framework—one based on identifying and applying patterns of sequence–structure compatibility found in known proteins, rather than approximating them from models of interatomic interactions. We carry out extensive computational analyses and an experimental validation for our method. Our results strongly argue that the Protein Data Bank is now sufficiently large to enable proteins to be designed by using only examples of structural motifs from unrelated proteins. Because our method is likely to have orthogonal strengths relative to existing techniques, it could represent an important step toward removing remaining barriers to robust CPD.</dcterms:abstract>
+        <dc:date>2020/01/14</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>www.pnas.org</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://www.pnas.org/content/117/2/1059</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-01-15 13:41:25</dcterms:dateSubmitted>
+        <dc:rights>Copyright © 2020 the Author(s). Published by PNAS.. https://creativecommons.org/licenses/by-nc-nd/4.0/This open access article is distributed under Creative Commons Attribution-NonCommercial-NoDerivatives License 4.0 (CC BY-NC-ND).</dc:rights>
+        <dc:description>PMID: 31892539</dc:description>
+        <bib:pages>1059-1068</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_122">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>PubMed entry</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://www.ncbi.nlm.nih.gov/pubmed/31892539</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-01-15 13:41:26</dcterms:dateSubmitted>
+        <z:linkMode>3</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.201906602">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1521-3773"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Spackman</foaf:surname>
+                        <foaf:givenName>Peter R.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Yu</foaf:surname>
+                        <foaf:givenName>Li-Juan</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Morton</foaf:surname>
+                        <foaf:givenName>Craig J.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Parker</foaf:surname>
+                        <foaf:givenName>Michael W.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bond</foaf:surname>
+                        <foaf:givenName>Charles S.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Spackman</foaf:surname>
+                        <foaf:givenName>Mark A.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Jayatilaka</foaf:surname>
+                        <foaf:givenName>Dylan</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Thomas</foaf:surname>
+                        <foaf:givenName>Sajesh P.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>crystal engineering</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>drug discovery</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>molecular recognition</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>noncovalent interactions</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>virtual screening</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Bridging Crystal Engineering and Drug Discovery by Utilizing Intermolecular Interactions and Molecular Shapes in Crystals</dc:title>
+        <dcterms:abstract>Most structure-based drug discovery methods utilize crystal structures of receptor proteins. Crystal engineering, on the other hand, utilizes the wealth of chemical information inherent in small-molecule crystal structures in the Cambridge Structural Database (CSD). We show that the interaction surfaces and shapes of molecules in experimentally determined small-molecule crystal structures can serve as effective tools in drug discovery. Our description of the shape and interaction propensities of molecules in their crystal structures can be used to screen them for specific binding compatibility with protein targets, as demonstrated through the high-throughput profiling of around 138 000 small-molecule structures in the CSD and a series of drug–protein crystal structures. Electron-density-based intermolecular boundary surfaces in small-molecule crystal structures and in target-protein pockets are utilized to identify potential ligand molecules from the CSD based on 3D shape and intermolecular interaction matching.</dcterms:abstract>
+        <dc:date>2019</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>Wiley Online Library</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.201906602</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2019-12-09 14:12:38</dcterms:dateSubmitted>
+        <dc:rights>© 2019 Wiley‐VCH Verlag GmbH &amp; Co. KGaA, Weinheim</dc:rights>
+        <bib:pages>16780-16784</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1521-3773">
+        <prism:volume>58</prism:volume>
+        <dc:title>Angewandte Chemie International Edition</dc:title>
+        <dc:identifier>DOI 10.1002/anie.201906602</dc:identifier>
+        <prism:number>47</prism:number>
+        <dc:identifier>ISSN 1521-3773</dc:identifier>
+    </bib:Journal>
+    <bib:Article rdf:about="https://www.nature.com/articles/s41573-019-0024-5">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1474-1784"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Vamathevan</foaf:surname>
+                        <foaf:givenName>Jessica</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Clark</foaf:surname>
+                        <foaf:givenName>Dominic</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Czodrowski</foaf:surname>
+                        <foaf:givenName>Paul</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Dunham</foaf:surname>
+                        <foaf:givenName>Ian</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ferran</foaf:surname>
+                        <foaf:givenName>Edgardo</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lee</foaf:surname>
+                        <foaf:givenName>George</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Li</foaf:surname>
+                        <foaf:givenName>Bin</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Madabhushi</foaf:surname>
+                        <foaf:givenName>Anant</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Shah</foaf:surname>
+                        <foaf:givenName>Parantu</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Spitzer</foaf:surname>
+                        <foaf:givenName>Michaela</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zhao</foaf:surname>
+                        <foaf:givenName>Shanrong</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Applications of machine learning in drug discovery and development</dc:title>
+        <dcterms:abstract>Machine learning has been applied to numerous stages in the drug discovery pipeline. Here, Vamathevan and colleagues discuss the most useful techniques and how machine learning can promote data-driven decision making in drug discovery and development. They highlight major hurdles in the field, such as the required data characteristics for applying machine learning, which will need to be solved as machine learning matures.</dcterms:abstract>
+        <dc:date>2019/06</dc:date>
+        <z:language>En</z:language>
+        <z:libraryCatalog>www.nature.com</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.nature.com/articles/s41573-019-0024-5</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2019-06-04 12:46:13</dcterms:dateSubmitted>
+        <dc:rights>2019 Springer Nature Limited</dc:rights>
+        <bib:pages>463</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1474-1784">
+        <prism:volume>18</prism:volume>
+        <dc:title>Nature Reviews Drug Discovery</dc:title>
+        <dc:identifier>DOI 10.1038/s41573-019-0024-5</dc:identifier>
+        <prism:number>6</prism:number>
+        <dc:identifier>ISSN 1474-1784</dc:identifier>
+    </bib:Journal>
+    <bib:Article rdf:about="https://onlinelibrary.wiley.com/doi/abs/10.1002/minf.201800108">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>38</prism:volume>
+                <dc:title>Molecular Informatics</dc:title>
+                <dc:identifier>DOI 10.1002/minf.201800108</dc:identifier>
+                <prism:number>4</prism:number>
+                <dc:identifier>ISSN 1868-1751</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sosnin</foaf:surname>
+                        <foaf:givenName>Sergey</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Vashurina</foaf:surname>
+                        <foaf:givenName>Mariia</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Withnall</foaf:surname>
+                        <foaf:givenName>Michael</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Karpov</foaf:surname>
+                        <foaf:givenName>Pavel</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Fedorov</foaf:surname>
+                        <foaf:givenName>Maxim</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Tetko</foaf:surname>
+                        <foaf:givenName>Igor V.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Multi-task learning</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>neural networks</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>transfer learning</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>A Survey of Multi-task Learning Methods in Chemoinformatics</dc:title>
+        <dcterms:abstract>Despite the increasing volume of available data, the proportion of experimentally measured data remains small compared to the virtual chemical space of possible chemical structures. Therefore, there is a strong interest in simultaneously predicting different ADMET and biological properties of molecules, which are frequently strongly correlated with one another. Such joint data analyses can increase the accuracy of models by exploiting their common representation and identifying common features between individual properties. In this work we review the recent developments in multi-learning approaches as well as cover the freely available tools and packages that can be used to perform such studies.</dcterms:abstract>
+        <dc:date>2019</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>Wiley Online Library</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://onlinelibrary.wiley.com/doi/abs/10.1002/minf.201800108</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2019-04-15 08:08:15</dcterms:dateSubmitted>
+        <dc:rights>© 2018 The Authors. Published by Wiley-VCH Verlag GmbH &amp; Co. KGaA.</dc:rights>
+        <bib:pages>1800108</bib:pages>
+    </bib:Article>
+    <bib:Article rdf:about="https://doi.org/10.1021/acs.jcim.8b00545">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>59</prism:volume>
+                <dc:title>Journal of Chemical Information and Modeling</dc:title>
+                <dc:identifier>DOI 10.1021/acs.jcim.8b00545</dc:identifier>
+                <prism:number>2</prism:number>
+                <dcterms:alternative>J. Chem. Inf. Model.</dcterms:alternative>
+                <dc:identifier>ISSN 1549-9596</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Su</foaf:surname>
+                        <foaf:givenName>Minyi</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Yang</foaf:surname>
+                        <foaf:givenName>Qifan</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Du</foaf:surname>
+                        <foaf:givenName>Yu</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Feng</foaf:surname>
+                        <foaf:givenName>Guoqin</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Liu</foaf:surname>
+                        <foaf:givenName>Zhihai</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Li</foaf:surname>
+                        <foaf:givenName>Yan</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wang</foaf:surname>
+                        <foaf:givenName>Renxiao</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Comparative Assessment of Scoring Functions: The CASF-2016 Update</dc:title>
+        <dcterms:abstract>In structure-based drug design, scoring functions are often employed to evaluate protein–ligand interactions. A variety of scoring functions have been developed so far, and thus, some objective benchmarks are desired for assessing their strength and weakness. The comparative assessment of scoring functions (CASF) benchmark developed by us provides an answer to this demand. CASF is designed as a “scoring benchmark”, where the scoring process is decoupled from the docking process to depict the performance of scoring function more precisely. Here, we describe the latest update of this benchmark, i.e., CASF-2016. Each scoring function is still evaluated by four metrics, including “scoring power”, “ranking power”, “docking power”, and “screening power”. Nevertheless, the evaluation methods have been improved considerably in several aspects. A new test set is compiled, which consists of 285 protein–ligand complexes with high-quality crystal structures and reliable binding constants. A panel of 25 scoring functions are tested on CASF-2016 as a demonstration. Our results reveal that the performance of current scoring functions is more promising in terms of docking power than scoring, ranking, and screening power. Scoring power is somewhat correlated with ranking power, so are docking power and screening power. The results obtained on CASF-2016 may provide valuable guidance for the end users to make smart choices among available scoring functions. Moreover, CASF is created as an open-access benchmark so that other researchers can utilize it to test a wider range of scoring functions. The complete CASF-2016 benchmark will be released on the PDBbind-CN web server (http://www.pdbbind-cn.org/casf.asp/) once this article is published.</dcterms:abstract>
+        <dc:date>February 25, 2019</dc:date>
+        <z:shortTitle>Comparative Assessment of Scoring Functions</z:shortTitle>
+        <z:libraryCatalog>ACS Publications</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://doi.org/10.1021/acs.jcim.8b00545</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2019-04-16 15:13:17</dcterms:dateSubmitted>
+        <bib:pages>895-913</bib:pages>
+    </bib:Article>
+    <bib:Article rdf:about="http://www.ncbi.nlm.nih.gov/pubmed/23705874">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>53</prism:volume>
+                <dc:title>Journal of Chemical Information and Modeling</dc:title>
+                <dc:identifier>DOI 10.1021/ci400115b</dc:identifier>
+                <prism:number>6</prism:number>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bauer</foaf:surname>
+                        <foaf:givenName>M R</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ibrahim</foaf:surname>
+                        <foaf:givenName>T M</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Vogel</foaf:surname>
+                        <foaf:givenName>S M</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Boeckler</foaf:surname>
+                        <foaf:givenName>F M</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Evaluation and Optimization of Virtual Screening Workflows with DEKOIS 2.0 - A Public Library of Challenging Docking Benchmark Sets</dc:title>
+        <dcterms:abstract>The application of molecular benchmarking sets helps to assess the actual performance of virtual screening (VS) workflows. To improve the efficiency of structure-based VS approaches, the selection and optimization of various parameters can be guided by benchmarking. With the DEKOIS 2.0 library, we aim to further extend and complement the collection of publicly available decoy sets. Based on BindingDB bioactivity data, we provide 81 new and structurally diverse benchmark sets for a wide variety of different target classes. To ensure a meaningful selection of ligands, we address several issues that can be found in bioactivity data. We have improved our previously introduced DEKOIS methodology with enhanced physicochemical matching, now including the consideration of molecular charges, as well as a more sophisticated elimination of latent actives in the decoy set (LADS). We evaluate the docking performance of Glide, GOLD, and AutoDock Vina with our data sets and highlight existing challenges for VS tools. All DEKOIS 2.0 benchmark sets will be made accessible at http://www.dekois.com .</dcterms:abstract>
+        <dc:date>2013</dc:date>
+        <z:language>Eng</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://www.ncbi.nlm.nih.gov/pubmed/23705874</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:description>PMID: 23705874</dc:description>
+        <bib:pages>1447–1462</bib:pages>
+    </bib:Article>
+    <bib:Article rdf:about="https://doi.org/10.1021/acs.jcim.9b00939">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>60</prism:volume>
+                <dc:title>Journal of Chemical Information and Modeling</dc:title>
+                <dc:identifier>DOI 10.1021/acs.jcim.9b00939</dc:identifier>
+                <prism:number>1</prism:number>
+                <dcterms:alternative>J. Chem. Inf. Model.</dcterms:alternative>
+                <dc:identifier>ISSN 1549-9596</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Cui</foaf:surname>
+                        <foaf:givenName>Guanglei</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Graves</foaf:surname>
+                        <foaf:givenName>Alan P.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Manas</foaf:surname>
+                        <foaf:givenName>Eric S.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>GRAM: A True Null Model for Relative Binding Affinity Predictions</dc:title>
+        <dcterms:abstract>Relative binding affinity prediction is a critical component in computer aided drug design. A significant amount of effort has been dedicated to developing rapid and reliable in silico methods. However, robust assessment of their performance is still a complicated issue, as it requires a performance measure applicable in the prospective setting and more importantly a true null model that defines the expected performance of being random in an objective manner. Although many performance metrics, such as the Pearson correlation coefficient (r), mean unsigned error (MUE), and root-mean-square error (RMSE), are frequently used in the literature, a true and nontrivial null model has yet been identified. To address this problem, here we introduce an interval estimate as an additional measure, namely, the prediction interval (PI), which can be estimated from the error distribution of the predictions. The benefits of using the interval estimate are (1) it provides the uncertainty range in the predicted activities, which is important in prospective applications, and (2) a true null model with well-defined PI can be established. We provide one such example termed the Gaussian Random Affinity Model (GRAM), which is based on the empirical observation that the affinity change in a typical lead optimization effort has the tendency to distribute normally N (0, σ). Having an analytically defined PI that only depends on the variation in the activities, GRAM should, in principle, allow us to compare the performance of relative binding affinity prediction methods in a standard way, ultimately critical to measuring the progress made in algorithm development.</dcterms:abstract>
+        <dc:date>2020-01-27</dc:date>
+        <z:shortTitle>GRAM</z:shortTitle>
+        <z:libraryCatalog>ACS Publications</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://doi.org/10.1021/acs.jcim.9b00939</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-01-28 15:04:10</dcterms:dateSubmitted>
+        <bib:pages>11-16</bib:pages>
+    </bib:Article>
+    <bib:Article rdf:about="http://dx.doi.org/10.1021/acs.jcim.6b00182">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>56</prism:volume>
+                <dc:title>Journal of Chemical Information and Modeling</dc:title>
+                <dc:identifier>DOI 10.1021/acs.jcim.6b00182</dc:identifier>
+                <prism:number>6</prism:number>
+                <dcterms:alternative>J. Chem. Inf. Model.</dcterms:alternative>
+                <dc:identifier>ISSN 1549-9596</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Carlson</foaf:surname>
+                        <foaf:givenName>Heather A.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_129"/>
+        <dc:title>Lessons Learned over Four Benchmark Exercises from the Community Structure–Activity Resource</dc:title>
+        <dc:date>June 27, 2016</dc:date>
+        <z:libraryCatalog>ACS Publications</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://dx.doi.org/10.1021/acs.jcim.6b00182</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2016-07-14 08:57:10</dcterms:dateSubmitted>
+        <bib:pages>951-954</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_129">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>ACS Full Text PDF w/ Links</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://pubs.acs.org/doi/pdfplus/10.1021/acs.jcim.6b00182</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2016-07-14 08:57:10</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+</rdf:RDF>

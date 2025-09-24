@@ -1,0 +1,2841 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:z="http://www.zotero.org/namespaces/export#"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:bib="http://purl.org/net/biblio#"
+ xmlns:foaf="http://xmlns.com/foaf/0.1/"
+ xmlns:link="http://purl.org/rss/1.0/modules/link/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/">
+    <bib:Article rdf:about="https://linkinghub.elsevier.com/retrieve/pii/S0959440X11000261">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0959440X"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Chodera</foaf:surname>
+                        <foaf:givenName>John D</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mobley</foaf:surname>
+                        <foaf:givenName>David L</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Shirts</foaf:surname>
+                        <foaf:givenName>Michael R</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Dixon</foaf:surname>
+                        <foaf:givenName>Richard W</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Branson</foaf:surname>
+                        <foaf:givenName>Kim</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Pande</foaf:surname>
+                        <foaf:givenName>Vijay S</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_165"/>
+        <dc:title>Alchemical free energy methods for drug discovery: progress and challenges</dc:title>
+        <dc:date>4/2011</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>Alchemical free energy methods for drug discovery</z:shortTitle>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://linkinghub.elsevier.com/retrieve/pii/S0959440X11000261</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-04-17 11:32:24</dcterms:dateSubmitted>
+        <bib:pages>150-160</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0959440X">
+        <prism:volume>21</prism:volume>
+        <dc:title>Current Opinion in Structural Biology</dc:title>
+        <dc:identifier>DOI 10.1016/j.sbi.2011.01.011</dc:identifier>
+        <prism:number>2</prism:number>
+        <dcterms:alternative>Current Opinion in Structural Biology</dcterms:alternative>
+        <dc:identifier>ISSN 0959440X</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_165">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Versão aceite</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://europepmc.org/articles/pmc3085996?pdf=render</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-04-17 11:32:26</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://pubs.acs.org/doi/10.1021/acs.jpclett.8b01284">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1948-7185"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Vilseck</foaf:surname>
+                        <foaf:givenName>Jonah Z.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Armacost</foaf:surname>
+                        <foaf:givenName>Kira A.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hayes</foaf:surname>
+                        <foaf:givenName>Ryan L.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Goh</foaf:surname>
+                        <foaf:givenName>Garrett B.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Brooks</foaf:surname>
+                        <foaf:givenName>Charles L.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_168"/>
+        <dc:title>Predicting Binding Free Energies in a Large Combinatorial Chemical Space Using Multisite λ Dynamics</dc:title>
+        <dc:date>2018-06-21</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://pubs.acs.org/doi/10.1021/acs.jpclett.8b01284</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-04-17 11:39:52</dcterms:dateSubmitted>
+        <bib:pages>3328-3332</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1948-7185">
+        <prism:volume>9</prism:volume>
+        <dc:title>The Journal of Physical Chemistry Letters</dc:title>
+        <dc:identifier>DOI 10.1021/acs.jpclett.8b01284</dc:identifier>
+        <prism:number>12</prism:number>
+        <dcterms:alternative>J. Phys. Chem. Lett.</dcterms:alternative>
+        <dc:identifier>ISSN 1948-7185</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_168">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Versão aceite</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6091208/pdf/nihms984220.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-04-17 11:39:58</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://pubs.acs.org/doi/10.1021/acs.jmedchem.5b02008">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0022-2623,%201520-4804"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Irwin</foaf:surname>
+                        <foaf:givenName>John J.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Shoichet</foaf:surname>
+                        <foaf:givenName>Brian K.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_171"/>
+        <dc:title>Docking Screens for Novel Ligands Conferring New Biology: Miniperspective</dc:title>
+        <dc:date>2016-05-12</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>Docking Screens for Novel Ligands Conferring New Biology</z:shortTitle>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://pubs.acs.org/doi/10.1021/acs.jmedchem.5b02008</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-04-17 11:43:52</dcterms:dateSubmitted>
+        <bib:pages>4103-4120</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0022-2623,%201520-4804">
+        <prism:volume>59</prism:volume>
+        <dc:title>Journal of Medicinal Chemistry</dc:title>
+        <dc:identifier>DOI 10.1021/acs.jmedchem.5b02008</dc:identifier>
+        <prism:number>9</prism:number>
+        <dcterms:alternative>J. Med. Chem.</dcterms:alternative>
+        <dc:identifier>ISSN 0022-2623, 1520-4804</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_171">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Versão aceite</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://europepmc.org/articles/pmc4865415?pdf=render</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-04-17 11:43:57</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://pubs.acs.org/doi/10.1021/acs.jmedchem.8b00718">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>61</prism:volume>
+                <dc:title>Journal of Medicinal Chemistry</dc:title>
+                <dc:identifier>DOI 10.1021/acs.jmedchem.8b00718</dc:identifier>
+                <prism:number>15</prism:number>
+                <dcterms:alternative>J. Med. Chem.</dcterms:alternative>
+                <dc:identifier>ISSN 0022-2623, 1520-4804</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Weiss</foaf:surname>
+                        <foaf:givenName>Dahlia R.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Karpiak</foaf:surname>
+                        <foaf:givenName>Joel</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Huang</foaf:surname>
+                        <foaf:givenName>Xi-Ping</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sassano</foaf:surname>
+                        <foaf:givenName>Maria F.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lyu</foaf:surname>
+                        <foaf:givenName>Jiankun</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Roth</foaf:surname>
+                        <foaf:givenName>Bryan L.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Shoichet</foaf:surname>
+                        <foaf:givenName>Brian K.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_174"/>
+        <dc:title>Selectivity Challenges in Docking Screens for GPCR Targets and Antitargets</dc:title>
+        <dc:date>2018-08-09</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://pubs.acs.org/doi/10.1021/acs.jmedchem.8b00718</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-04-17 11:47:28</dcterms:dateSubmitted>
+        <bib:pages>6830-6845</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_174">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Texto completo</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://pubs.acs.org/doi/pdf/10.1021/acs.jmedchem.8b00718</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-04-17 11:47:33</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://linkinghub.elsevier.com/retrieve/pii/S1359644617303598">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:13596446"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Chen</foaf:surname>
+                        <foaf:givenName>Hongming</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Engkvist</foaf:surname>
+                        <foaf:givenName>Ola</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wang</foaf:surname>
+                        <foaf:givenName>Yinhai</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Olivecrona</foaf:surname>
+                        <foaf:givenName>Marcus</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Blaschke</foaf:surname>
+                        <foaf:givenName>Thomas</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_177"/>
+        <dc:title>The rise of deep learning in drug discovery</dc:title>
+        <dc:date>06/2018</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://linkinghub.elsevier.com/retrieve/pii/S1359644617303598</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-04-17 12:08:13</dcterms:dateSubmitted>
+        <bib:pages>1241-1250</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:13596446">
+        <prism:volume>23</prism:volume>
+        <dc:title>Drug Discovery Today</dc:title>
+        <dc:identifier>DOI 10.1016/j.drudis.2018.01.039</dc:identifier>
+        <prism:number>6</prism:number>
+        <dcterms:alternative>Drug Discovery Today</dcterms:alternative>
+        <dc:identifier>ISSN 13596446</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_177">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Texto completo</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://pdf.sciencedirectassets.com/271275/1-s2.0-S1359644618X00075/1-s2.0-S1359644617303598/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEKT%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCICCWUC42GgRYG3SfAg9r1%2FBZCZqthOzWO3s%2Fwl6CcEhOAiEAmjdCuQyPiZw1L1nRt0WspA2c3UO16l5sNdnnPYvmwXcqvQMIvP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARADGgwwNTkwMDM1NDY4NjUiDOF%2B7f4VT9jDCFXUBSqRAyxD1ymcEvJWTis2n41DQyPrEgikBelL5KiCk0RVf0qLZnCkLrlySS4o0jyJqXBdxD2o8GxTYGSRLoK3pNtiIYtopI%2FMLMRnv97JvFcbRBPGfeXFS2s2eiChiSIUTI%2F1cOBulzGov76rKScRZOMYYN43FZ%2FgaedtAtAdsCS2JNio3wbjyJDAsTN5cLBdYlMNuboR9ZLpQqnIcBmwZy1hAgQRUe%2BpYN3oXwkgjKEPY8HF0b4Lu71%2BaOCn3nlrxaZT%2B1G5Nskv1zzrqdEs6GJxiUGDW06dgyrqXuzJm0kAmSxUt7oavZsKVkSHbM1GxWxkDq5B6fMbhEvyPjTpwHwlukJVvQpjArTnHkXnLBQFCBW6JDzbOqLGdS2Y6EM9TSAkOmsxwkmO6C6OuG4cIqeXUH68V%2B7LSGX1TWLf7yVVWUjhIiyQVGsCStzzVCV3ON%2Fh5O9%2BfhrJk6qqg%2FiMjDqYgdzurwL%2Fn0PPIzNSaHdKQgA9K8rBhKFKcgp4pRh%2FoVxt3aiaf2z52sJHxlAXjbk9JAfZMKue5vQFOusBcIKvkDHR%2BFsfC8H6qdch56Y%2FRxIgMXv2FP%2F4TtMv0OBZpSoFiDZcozjrnfk9bQPN%2FMMx6g1XfiFbudbOOtzPNVbIf1u13Np3WJ9FfsrkEydENi1MIz%2B4BrNMaPPtN1Q062fNQgNEH9BHzxOW2ziNyt4s%2FZmK2IxnIySeTL9yJOLRvqyOQSC9JVBsrL4kKyJEke1JWpiyhcH9W0mrSOq85G5MmByFZ2fHqwPgMDvlgnNtLS6TDD7QWP%2BuGjSJSfFOwYatQLL3BiC45WBI0nXrVovosGKWp%2B95F7R5%2BJZxeDVY4EjbO0VxKRWc5g%3D%3D&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Date=20200417T120817Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=300&amp;X-Amz-Credential=ASIAQ3PHCVTYVQ53Z6D6%2F20200417%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Signature=3539c94bac9da396632d916eeb4645f3e5fc1e097c4da80d2308882378ebb59a&amp;hash=8e6f924675c63ad588bca09674236c2e819a40c85c89d7eaae5050e0ad8e7dfa&amp;host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&amp;pii=S1359644617303598&amp;tid=spdf-a0d8e98c-b8b2-4d72-8cf6-2530e9514e43&amp;sid=473528fc424e96459d99bef595351c199d69gxrqb&amp;type=client</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-04-17 12:08:19</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://pubs.acs.org/doi/10.1021/acs.jcim.7b00650">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1549-9596,%201549-960X"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Jiménez</foaf:surname>
+                        <foaf:givenName>José</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Škalič</foaf:surname>
+                        <foaf:givenName>Miha</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Martínez-Rosell</foaf:surname>
+                        <foaf:givenName>Gerard</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>De Fabritiis</foaf:surname>
+                        <foaf:givenName>Gianni</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_181"/>
+        <dc:title>&lt;i&gt;K&lt;/i&gt; &lt;sub&gt;DEEP&lt;/sub&gt; : Protein–Ligand Absolute Binding Affinity Prediction via 3D-Convolutional Neural Networks</dc:title>
+        <dc:date>2018-02-26</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>&lt;i&gt;K&lt;/i&gt; &lt;sub&gt;DEEP&lt;/sub&gt;</z:shortTitle>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://pubs.acs.org/doi/10.1021/acs.jcim.7b00650</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-04-17 12:11:37</dcterms:dateSubmitted>
+        <bib:pages>287-296</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1549-9596,%201549-960X">
+        <prism:volume>58</prism:volume>
+        <dc:title>Journal of Chemical Information and Modeling</dc:title>
+        <dc:identifier>DOI 10.1021/acs.jcim.7b00650</dc:identifier>
+        <prism:number>2</prism:number>
+        <dcterms:alternative>J. Chem. Inf. Model.</dcterms:alternative>
+        <dc:identifier>ISSN 1549-9596, 1549-960X</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_181">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Jiménez et al. - 2018 - iKi subDEEPsub  Protein–Ligand Absolute.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://pubs.acs.org/doi/10.1021/acs.jcim.7b00403">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>58</prism:volume>
+                <dc:title>Journal of Chemical Information and Modeling</dc:title>
+                <dc:identifier>DOI 10.1021/acs.jcim.7b00403</dc:identifier>
+                <prism:number>5</prism:number>
+                <dcterms:alternative>J. Chem. Inf. Model.</dcterms:alternative>
+                <dc:identifier>ISSN 1549-9596, 1549-960X</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wallach</foaf:surname>
+                        <foaf:givenName>Izhar</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Heifets</foaf:surname>
+                        <foaf:givenName>Abraham</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_183"/>
+        <dc:title>Most Ligand-Based Classification Benchmarks Reward Memorization Rather than Generalization</dc:title>
+        <dc:date>2018-05-29</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://pubs.acs.org/doi/10.1021/acs.jcim.7b00403</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-04-17 12:22:35</dcterms:dateSubmitted>
+        <bib:pages>916-932</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_183">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Versão submetida</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://arxiv.org/pdf/1706.06619</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-04-17 12:22:45</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://link.springer.com/10.1007/s10822-016-9960-x">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0920-654X,%201573-4951"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sunseri</foaf:surname>
+                        <foaf:givenName>Jocelyn</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ragoza</foaf:surname>
+                        <foaf:givenName>Matthew</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Collins</foaf:surname>
+                        <foaf:givenName>Jasmine</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Koes</foaf:surname>
+                        <foaf:givenName>David Ryan</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_186"/>
+        <dc:title>A D3R prospective evaluation of machine learning for protein-ligand scoring</dc:title>
+        <dc:date>9/2016</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://link.springer.com/10.1007/s10822-016-9960-x</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-04-17 12:31:10</dcterms:dateSubmitted>
+        <bib:pages>761-771</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0920-654X,%201573-4951">
+        <prism:volume>30</prism:volume>
+        <dc:title>Journal of Computer-Aided Molecular Design</dc:title>
+        <dc:identifier>DOI 10.1007/s10822-016-9960-x</dc:identifier>
+        <prism:number>9</prism:number>
+        <dcterms:alternative>J Comput Aided Mol Des</dcterms:alternative>
+        <dc:identifier>ISSN 0920-654X, 1573-4951</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_186">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Versão aceite</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://europepmc.org/articles/pmc5079830?pdf=render</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-04-17 12:31:15</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkw1074">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0305-1048,%201362-4962"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gaulton</foaf:surname>
+                        <foaf:givenName>Anna</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hersey</foaf:surname>
+                        <foaf:givenName>Anne</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Nowotka</foaf:surname>
+                        <foaf:givenName>Michał</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bento</foaf:surname>
+                        <foaf:givenName>A. Patrícia</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Chambers</foaf:surname>
+                        <foaf:givenName>Jon</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mendez</foaf:surname>
+                        <foaf:givenName>David</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mutowo</foaf:surname>
+                        <foaf:givenName>Prudence</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Atkinson</foaf:surname>
+                        <foaf:givenName>Francis</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bellis</foaf:surname>
+                        <foaf:givenName>Louisa J.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Cibrián-Uhalte</foaf:surname>
+                        <foaf:givenName>Elena</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Davies</foaf:surname>
+                        <foaf:givenName>Mark</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Dedman</foaf:surname>
+                        <foaf:givenName>Nathan</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Karlsson</foaf:surname>
+                        <foaf:givenName>Anneli</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Magariños</foaf:surname>
+                        <foaf:givenName>María Paula</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Overington</foaf:surname>
+                        <foaf:givenName>John P.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Papadatos</foaf:surname>
+                        <foaf:givenName>George</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Smit</foaf:surname>
+                        <foaf:givenName>Ines</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Leach</foaf:surname>
+                        <foaf:givenName>Andrew R.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_188"/>
+        <dc:title>The ChEMBL database in 2017</dc:title>
+        <dc:date>2017-01-04</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkw1074</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-04-17 12:34:15</dcterms:dateSubmitted>
+        <bib:pages>D945-D954</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0305-1048,%201362-4962">
+        <prism:volume>45</prism:volume>
+        <dc:title>Nucleic Acids Research</dc:title>
+        <dc:identifier>DOI 10.1093/nar/gkw1074</dc:identifier>
+        <prism:number>D1</prism:number>
+        <dcterms:alternative>Nucleic Acids Res</dcterms:alternative>
+        <dc:identifier>ISSN 0305-1048, 1362-4962</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_188">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Texto completo</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://academic.oup.com/nar/article-pdf/45/D1/D945/8846762/gkw1074.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-04-17 12:34:27</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkr777">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>40</prism:volume>
+                <dc:title>Nucleic Acids Research</dc:title>
+                <dc:identifier>DOI 10.1093/nar/gkr777</dc:identifier>
+                <prism:number>D1</prism:number>
+                <dcterms:alternative>Nucleic Acids Research</dcterms:alternative>
+                <dc:identifier>ISSN 0305-1048, 1362-4962</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gaulton</foaf:surname>
+                        <foaf:givenName>A.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bellis</foaf:surname>
+                        <foaf:givenName>L. J.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bento</foaf:surname>
+                        <foaf:givenName>A. P.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Chambers</foaf:surname>
+                        <foaf:givenName>J.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Davies</foaf:surname>
+                        <foaf:givenName>M.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hersey</foaf:surname>
+                        <foaf:givenName>A.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Light</foaf:surname>
+                        <foaf:givenName>Y.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>McGlinchey</foaf:surname>
+                        <foaf:givenName>S.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Michalovich</foaf:surname>
+                        <foaf:givenName>D.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Al-Lazikani</foaf:surname>
+                        <foaf:givenName>B.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Overington</foaf:surname>
+                        <foaf:givenName>J. P.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_190"/>
+        <dc:title>ChEMBL: a large-scale bioactivity database for drug discovery</dc:title>
+        <dc:date>2012-01-01</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>ChEMBL</z:shortTitle>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkr777</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-04-17 12:35:50</dcterms:dateSubmitted>
+        <bib:pages>D1100-D1107</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_190">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Texto completo</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://academic.oup.com/nar/article-pdf/40/D1/D1100/16955876/gkr777.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-04-17 12:36:00</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkv352">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>43</prism:volume>
+                <dc:title>Nucleic Acids Research</dc:title>
+                <dc:identifier>DOI 10.1093/nar/gkv352</dc:identifier>
+                <prism:number>W1</prism:number>
+                <dcterms:alternative>Nucleic Acids Res</dcterms:alternative>
+                <dc:identifier>ISSN 0305-1048, 1362-4962</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Davies</foaf:surname>
+                        <foaf:givenName>Mark</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Nowotka</foaf:surname>
+                        <foaf:givenName>Michał</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Papadatos</foaf:surname>
+                        <foaf:givenName>George</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Dedman</foaf:surname>
+                        <foaf:givenName>Nathan</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gaulton</foaf:surname>
+                        <foaf:givenName>Anna</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Atkinson</foaf:surname>
+                        <foaf:givenName>Francis</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bellis</foaf:surname>
+                        <foaf:givenName>Louisa</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Overington</foaf:surname>
+                        <foaf:givenName>John P.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_192"/>
+        <dc:title>ChEMBL web services: streamlining access to drug discovery data and utilities</dc:title>
+        <dc:date>2015-07-01</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>ChEMBL web services</z:shortTitle>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkv352</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-04-17 13:37:16</dcterms:dateSubmitted>
+        <bib:pages>W612-W620</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_192">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Texto completo</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://academic.oup.com/nar/article-pdf/43/W1/W612/17435802/gkv352.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-04-17 13:37:29</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://link.springer.com/10.1007/s10822-015-9860-5">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>29</prism:volume>
+                <dc:title>Journal of Computer-Aided Molecular Design</dc:title>
+                <dc:identifier>DOI 10.1007/s10822-015-9860-5</dc:identifier>
+                <prism:number>9</prism:number>
+                <dcterms:alternative>J Comput Aided Mol Des</dcterms:alternative>
+                <dc:identifier>ISSN 0920-654X, 1573-4951</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Papadatos</foaf:surname>
+                        <foaf:givenName>George</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gaulton</foaf:surname>
+                        <foaf:givenName>Anna</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hersey</foaf:surname>
+                        <foaf:givenName>Anne</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Overington</foaf:surname>
+                        <foaf:givenName>John P.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_194"/>
+        <dc:title>Activity, assay and target data curation and quality in the ChEMBL database</dc:title>
+        <dc:date>9/2015</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://link.springer.com/10.1007/s10822-015-9860-5</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-04-23 07:07:17</dcterms:dateSubmitted>
+        <bib:pages>885-896</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_194">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Texto completo</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://link.springer.com/content/pdf/10.1007%2Fs10822-015-9860-5.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-04-23 07:07:18</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://doi.wiley.com/10.1002/prot.20512">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:08873585"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hu</foaf:surname>
+                        <foaf:givenName>Liegi</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Benson</foaf:surname>
+                        <foaf:givenName>Mark L.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Smith</foaf:surname>
+                        <foaf:givenName>Richard D.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lerner</foaf:surname>
+                        <foaf:givenName>Michael G.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Carlson</foaf:surname>
+                        <foaf:givenName>Heather A.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_196"/>
+        <dc:title>Binding MOAD (Mother Of All Databases)</dc:title>
+        <dc:date>2005-06-21</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://doi.wiley.com/10.1002/prot.20512</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-04-23 18:03:57</dcterms:dateSubmitted>
+        <bib:pages>333-340</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:08873585">
+        <prism:volume>60</prism:volume>
+        <dc:title>Proteins: Structure, Function, and Bioinformatics</dc:title>
+        <dc:identifier>DOI 10.1002/prot.20512</dc:identifier>
+        <prism:number>3</prism:number>
+        <dcterms:alternative>Proteins</dcterms:alternative>
+        <dc:identifier>ISSN 08873585</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_196">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Texto completo</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://deepblue.lib.umich.edu/bitstream/2027.42/48691/1/20512_ftp.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-04-23 18:04:00</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://academic.oup.com/nar/article/43/D1/D465/2437418/Recent-improvements-to-Binding-MOAD-a-resource-for">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1362-4962,%200305-1048"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ahmed</foaf:surname>
+                        <foaf:givenName>Aqeel</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Smith</foaf:surname>
+                        <foaf:givenName>Richard D.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Clark</foaf:surname>
+                        <foaf:givenName>Jordan J.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Dunbar</foaf:surname>
+                        <foaf:givenName>James B.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Carlson</foaf:surname>
+                        <foaf:givenName>Heather A.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_198"/>
+        <dc:title>Recent improvements to Binding MOAD: a resource for protein–ligand binding affinities and structures</dc:title>
+        <dc:date>2015-01-28</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>Recent improvements to Binding MOAD</z:shortTitle>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://academic.oup.com/nar/article/43/D1/D465/2437418/Recent-improvements-to-Binding-MOAD-a-resource-for</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-04-23 18:51:34</dcterms:dateSubmitted>
+        <bib:pages>D465-D469</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1362-4962,%200305-1048">
+        <prism:volume>43</prism:volume>
+        <dc:title>Nucleic Acids Research</dc:title>
+        <dc:identifier>DOI 10.1093/nar/gku1088</dc:identifier>
+        <prism:number>D1</prism:number>
+        <dc:identifier>ISSN 1362-4962, 0305-1048</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_198">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Texto completo</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://academic.oup.com/nar/article-pdf/43/D1/D465/7317583/gku1088.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-04-23 18:51:40</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://linkinghub.elsevier.com/retrieve/pii/S0022283619302967">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:00222836"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Smith</foaf:surname>
+                        <foaf:givenName>Richard D.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Clark</foaf:surname>
+                        <foaf:givenName>Jordan J.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ahmed</foaf:surname>
+                        <foaf:givenName>Aqeel</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Orban</foaf:surname>
+                        <foaf:givenName>Zachary J.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Dunbar</foaf:surname>
+                        <foaf:givenName>James B.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Carlson</foaf:surname>
+                        <foaf:givenName>Heather A.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_202"/>
+        <dc:title>Updates to Binding MOAD (Mother of All Databases): Polypharmacology Tools and Their Utility in Drug Repurposing</dc:title>
+        <dc:date>06/2019</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>Updates to Binding MOAD (Mother of All Databases)</z:shortTitle>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://linkinghub.elsevier.com/retrieve/pii/S0022283619302967</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-04-23 19:13:36</dcterms:dateSubmitted>
+        <bib:pages>2423-2433</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:00222836">
+        <prism:volume>431</prism:volume>
+        <dc:title>Journal of Molecular Biology</dc:title>
+        <dc:identifier>DOI 10.1016/j.jmb.2019.05.024</dc:identifier>
+        <prism:number>13</prism:number>
+        <dcterms:alternative>Journal of Molecular Biology</dcterms:alternative>
+        <dc:identifier>ISSN 00222836</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_202">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Texto completo</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://pdf.sciencedirectassets.com/272582/1-s2.0-S0022283619X00121/1-s2.0-S0022283619302967/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEDoaCXVzLWVhc3QtMSJGMEQCIA9voPlV2A1FJAe1Egx7R0lNzusuPGO8QGHggpIB%2FCw%2FAiAzVjrKf35zuwqTqN%2FhAqpc06uyzVa0rl%2BMTeVPnv3Criq0AwhjEAMaDDA1OTAwMzU0Njg2NSIMMAWw%2BEMaGWKqR7pzKpEDl7QToZ4k%2FP87LaX9WXZIUdigmEeJpKRn4zty%2Bh%2BlCmpjM7jYGG%2BlfPjkZZ6Pr6mxCsXqF8KN1OQYfoiWhQKUVWb4LZZXMyXsIR%2FRD3AlrC49hwA2JESshG06Ki0rtlhNxnkTiKg2ePGuCKP%2BPcPuyVO9M9SBqqM270oKdGnFiEykh0HwC792HVXe2Z5lw%2BNHyhpFKqDbvEv55QXpzWxo3TCYAb3ZnddYi%2BpyC3phTAFXfO2etHFSF6K0SGywTCvyouK5JbjMcx%2FdxPrUzKWU45y7KNNIldaxkh6K4pqjE%2FkXTfjIKnj53PfmnXHFcHE5zyFS1sy%2BspSV605UG3kwHo9YivR%2FvawRIVw5cwN04M9T5C4CvjMwITi%2FM%2BWJyUaMkzkIJynFEvcP5pp2oiZ226xy6DsThrVzfoVqrdCorj63BC8V0oqf3P63g6b1e8wi8C5o7K13THXOxmkKzmXflKsy0LvxGzMrh0UoUPOlz%2FmglKlTXbDKC7GFQhktOGiq30FLFQ7YEJaG3c4to6jtFm8wz66H9QU67AHPe92M%2BU4ddFA7a3vLdZ%2FoFmSHy8Rhl5O%2F%2Fu5D528vvbRBJ2H%2FMwfIxjYAoAS8nf0TojTOiNhNgiyj1t%2Bz6YVMLcAWjAWfTXjMdZT8mE37wGb9AFYkqso6iGn5FVRLvHHV%2F%2FBZm31Dc9WxFg2Y%2FiiHapvUMDBRdo1rlPuEMwyDeJQiMWKrk9x0p%2FQXvEoNolpXMC82lkfR6Ng2Rj7%2BTNISfUWtq17OyMlb7edn6%2FwOS%2FtQBaSnkw9zuEsb2l2EXk7QIruhtk3fBK39Ag1DSOw1RKpC0mzuDA9QazvUb6i2Ct%2B2A13B8I9WFCBxyQ%3D%3D&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Date=20200423T191338Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=300&amp;X-Amz-Credential=ASIAQ3PHCVTY564L65HS%2F20200423%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Signature=f53cce9521281bf2cb3be993e750e3b9acb39a3b53a9dc375c72c448180eb699&amp;hash=2fb74d5ae5a5b9e6dfce783cb0a3f74f1929c15ffdf8cc919daedf5a89237a10&amp;host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&amp;pii=S0022283619302967&amp;tid=spdf-ed4270d9-223f-4a2e-9458-1dd2be173024&amp;sid=335fbc8e4d49234d161920f5d360aebee3edgxrqb&amp;type=client</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-04-23 19:13:41</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkm911">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>36</prism:volume>
+                <dc:title>Nucleic Acids Research</dc:title>
+                <dc:identifier>DOI 10.1093/nar/gkm911</dc:identifier>
+                <prism:number>Database</prism:number>
+                <dcterms:alternative>Nucleic Acids Research</dcterms:alternative>
+                <dc:identifier>ISSN 0305-1048, 1362-4962</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Benson</foaf:surname>
+                        <foaf:givenName>M. L.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Smith</foaf:surname>
+                        <foaf:givenName>R. D.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Khazanov</foaf:surname>
+                        <foaf:givenName>N. A.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Dimcheff</foaf:surname>
+                        <foaf:givenName>B.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Beaver</foaf:surname>
+                        <foaf:givenName>J.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Dresslar</foaf:surname>
+                        <foaf:givenName>P.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Nerothin</foaf:surname>
+                        <foaf:givenName>J.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Carlson</foaf:surname>
+                        <foaf:givenName>H. A.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_205"/>
+        <dc:title>Binding MOAD, a high-quality protein ligand database</dc:title>
+        <dc:date>2007-12-23</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkm911</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-04-26 09:34:40</dcterms:dateSubmitted>
+        <bib:pages>D674-D678</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_205">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Benson et al. - 2007 - Binding MOAD, a high-quality protein ligand databa.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_204">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Texto completo</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://academic.oup.com/nar/article-pdf/36/suppl_1/D674/7633925/gkm911.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-04-26 09:34:52</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://pubs.acs.org/doi/10.1021/jm300131x">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>55</prism:volume>
+                <dc:title>Journal of Medicinal Chemistry</dc:title>
+                <dc:identifier>DOI 10.1021/jm300131x</dc:identifier>
+                <prism:number>11</prism:number>
+                <dcterms:alternative>J. Med. Chem.</dcterms:alternative>
+                <dc:identifier>ISSN 0022-2623, 1520-4804</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kramer</foaf:surname>
+                        <foaf:givenName>Christian</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kalliokoski</foaf:surname>
+                        <foaf:givenName>Tuomo</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gedeck</foaf:surname>
+                        <foaf:givenName>Peter</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Vulpetti</foaf:surname>
+                        <foaf:givenName>Anna</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_207"/>
+        <dc:title>The Experimental Uncertainty of Heterogeneous Public &lt;i&gt;K&lt;/i&gt; &lt;sub&gt;i&lt;/sub&gt; Data</dc:title>
+        <dc:date>2012-06-14</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://pubs.acs.org/doi/10.1021/jm300131x</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-04-28 07:12:17</dcterms:dateSubmitted>
+        <bib:pages>5165-5173</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_207">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Kramer et al. - 2012 - The Experimental Uncertainty of Heterogeneous Publ.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://dx.plos.org/10.1371/journal.pone.0061007">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1932-6203"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kalliokoski</foaf:surname>
+                        <foaf:givenName>Tuomo</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kramer</foaf:surname>
+                        <foaf:givenName>Christian</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Vulpetti</foaf:surname>
+                        <foaf:givenName>Anna</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gedeck</foaf:surname>
+                        <foaf:givenName>Peter</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Cavalli</foaf:surname>
+                        <foaf:givenName>Andrea</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <link:link rdf:resource="#item_209"/>
+        <dc:title>Comparability of Mixed IC50 Data – A Statistical Analysis</dc:title>
+        <dc:date>2013-4-16</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://dx.plos.org/10.1371/journal.pone.0061007</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-04-28 07:34:20</dcterms:dateSubmitted>
+        <bib:pages>e61007</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1932-6203">
+        <prism:volume>8</prism:volume>
+        <dc:title>PLoS ONE</dc:title>
+        <dc:identifier>DOI 10.1371/journal.pone.0061007</dc:identifier>
+        <prism:number>4</prism:number>
+        <dcterms:alternative>PLoS ONE</dcterms:alternative>
+        <dc:identifier>ISSN 1932-6203</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_209">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Texto completo</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0061007&amp;type=printable</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-04-28 07:34:25</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://academic.oup.com/bioinformatics/article-lookup/doi/10.1093/bioinformatics/btu626">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1460-2059,%201367-4803"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Liu</foaf:surname>
+                        <foaf:givenName>Zhihai</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Li</foaf:surname>
+                        <foaf:givenName>Yan</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Han</foaf:surname>
+                        <foaf:givenName>Li</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Li</foaf:surname>
+                        <foaf:givenName>Jie</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Liu</foaf:surname>
+                        <foaf:givenName>Jie</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zhao</foaf:surname>
+                        <foaf:givenName>Zhixiong</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Nie</foaf:surname>
+                        <foaf:givenName>Wei</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Liu</foaf:surname>
+                        <foaf:givenName>Yuchen</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wang</foaf:surname>
+                        <foaf:givenName>Renxiao</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_211"/>
+        <dc:title>PDB-wide collection of binding data: current status of the PDBbind database</dc:title>
+        <dc:date>2015-02-01</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>PDB-wide collection of binding data</z:shortTitle>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://academic.oup.com/bioinformatics/article-lookup/doi/10.1093/bioinformatics/btu626</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-05-01 09:19:02</dcterms:dateSubmitted>
+        <bib:pages>405-412</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1460-2059,%201367-4803">
+        <prism:volume>31</prism:volume>
+        <dc:title>Bioinformatics</dc:title>
+        <dc:identifier>DOI 10.1093/bioinformatics/btu626</dc:identifier>
+        <prism:number>3</prism:number>
+        <dc:identifier>ISSN 1460-2059, 1367-4803</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_211">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Texto completo</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://academic.oup.com/bioinformatics/article-pdf/31/3/405/17126045/btu626.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-05-01 09:19:08</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://pubs.acs.org/doi/10.1021/acs.jcim.0c00026">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dc:title>Journal of Chemical Information and Modeling</dc:title>
+                <dc:identifier>DOI 10.1021/acs.jcim.0c00026</dc:identifier>
+                <dcterms:alternative>J. Chem. Inf. Model.</dcterms:alternative>
+                <dc:identifier>ISSN 1549-9596, 1549-960X</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zhu</foaf:surname>
+                        <foaf:givenName>Fangqiang</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zhang</foaf:surname>
+                        <foaf:givenName>Xiaohua</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Allen</foaf:surname>
+                        <foaf:givenName>Jonathan</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Jones</foaf:surname>
+                        <foaf:givenName>Derek</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lightstone</foaf:surname>
+                        <foaf:givenName>Felice C</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Binding Affinity Prediction by Pairwise Function Based on Neural Network</dc:title>
+        <dc:date>2020-04-27</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://pubs.acs.org/doi/10.1021/acs.jcim.0c00026</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-05-01 10:06:42</dcterms:dateSubmitted>
+        <bib:pages>acs.jcim.0c00026</bib:pages>
+    </bib:Article>
+    <bib:Article rdf:about="https://pubs.acs.org/doi/10.1021/ci200082t">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>51</prism:volume>
+                <dc:title>Journal of Chemical Information and Modeling</dc:title>
+                <dc:identifier>DOI 10.1021/ci200082t</dc:identifier>
+                <prism:number>9</prism:number>
+                <dcterms:alternative>J. Chem. Inf. Model.</dcterms:alternative>
+                <dc:identifier>ISSN 1549-9596, 1549-960X</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Dunbar</foaf:surname>
+                        <foaf:givenName>James B.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Smith</foaf:surname>
+                        <foaf:givenName>Richard D.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Yang</foaf:surname>
+                        <foaf:givenName>Chao-Yie</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ung</foaf:surname>
+                        <foaf:givenName>Peter Man-Un</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lexa</foaf:surname>
+                        <foaf:givenName>Katrina W.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Khazanov</foaf:surname>
+                        <foaf:givenName>Nickolay A.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Stuckey</foaf:surname>
+                        <foaf:givenName>Jeanne A.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wang</foaf:surname>
+                        <foaf:givenName>Shaomeng</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Carlson</foaf:surname>
+                        <foaf:givenName>Heather A.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_215"/>
+        <dc:title>CSAR Benchmark Exercise of 2010: Selection of the Protein–Ligand Complexes</dc:title>
+        <dc:date>2011-09-26</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>CSAR Benchmark Exercise of 2010</z:shortTitle>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://pubs.acs.org/doi/10.1021/ci200082t</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-05-01 10:47:44</dcterms:dateSubmitted>
+        <bib:pages>2036-2046</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_215">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Texto completo</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://pubs.acs.org/doi/pdf/10.1021/ci200082t</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-05-01 10:48:08</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://pubs.acs.org/doi/10.1021/acs.jcim.8b00712">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>59</prism:volume>
+                <dc:title>Journal of Chemical Information and Modeling</dc:title>
+                <dc:identifier>DOI 10.1021/acs.jcim.8b00712</dc:identifier>
+                <prism:number>3</prism:number>
+                <dcterms:alternative>J. Chem. Inf. Model.</dcterms:alternative>
+                <dc:identifier>ISSN 1549-9596, 1549-960X</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sieg</foaf:surname>
+                        <foaf:givenName>Jochen</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Flachsenberg</foaf:surname>
+                        <foaf:givenName>Florian</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Rarey</foaf:surname>
+                        <foaf:givenName>Matthias</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>In Need of Bias Control: Evaluating Chemical Data for Machine Learning in Structure-Based Virtual Screening</dc:title>
+        <dc:date>2019-03-25</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>In Need of Bias Control</z:shortTitle>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://pubs.acs.org/doi/10.1021/acs.jcim.8b00712</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-05-09 18:33:06</dcterms:dateSubmitted>
+        <bib:pages>947-961</bib:pages>
+    </bib:Article>
+    <bib:Article rdf:about="#item_217">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>58</prism:volume>
+                <dc:title>Journal of Chemical Information and Modeling</dc:title>
+                <dc:identifier>DOI 10.1021/acs.jcim.7b00403</dc:identifier>
+                <prism:number>5</prism:number>
+                <dcterms:alternative>J. Chem. Inf. Model.</dcterms:alternative>
+                <dc:identifier>ISSN 1549-9596, 1549-960X</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wallach</foaf:surname>
+                        <foaf:givenName>Izhar</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Heifets</foaf:surname>
+                        <foaf:givenName>Abraham</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_218"/>
+        <dc:title>Most Ligand-Based Classification Benchmarks Reward Memorization Rather than Generalization</dc:title>
+        <dc:date>2018-05-29</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://pubs.acs.org/doi/10.1021/acs.jcim.7b00403</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-05-16 08:09:38</dcterms:dateSubmitted>
+        <bib:pages>916-932</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_218">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Versão submetida</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://arxiv.org/pdf/1706.06619</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-05-16 08:09:48</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://linkinghub.elsevier.com/retrieve/pii/S0304416520300350">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:03044165"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ellingson</foaf:surname>
+                        <foaf:givenName>Sally R.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Davis</foaf:surname>
+                        <foaf:givenName>Brian</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Allen</foaf:surname>
+                        <foaf:givenName>Jonathan</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Machine learning and ligand binding predictions: A review of data, methods, and obstacles</dc:title>
+        <dc:date>06/2020</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>Machine learning and ligand binding predictions</z:shortTitle>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://linkinghub.elsevier.com/retrieve/pii/S0304416520300350</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-05-17 09:36:55</dcterms:dateSubmitted>
+        <bib:pages>129545</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:03044165">
+        <prism:volume>1864</prism:volume>
+        <dc:title>Biochimica et Biophysica Acta (BBA) - General Subjects</dc:title>
+        <dc:identifier>DOI 10.1016/j.bbagen.2020.129545</dc:identifier>
+        <prism:number>6</prism:number>
+        <dcterms:alternative>Biochimica et Biophysica Acta (BBA) - General Subjects</dcterms:alternative>
+        <dc:identifier>ISSN 03044165</dc:identifier>
+    </bib:Journal>
+    <bib:Article rdf:about="http://doi.wiley.com/10.1002/minf.201300051">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:18681743"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kalliokoski</foaf:surname>
+                        <foaf:givenName>Tuomo</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kramer</foaf:surname>
+                        <foaf:givenName>Christian</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Vulpetti</foaf:surname>
+                        <foaf:givenName>Anna</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_221"/>
+        <dc:title>Quality Issues with Public Domain Chemogenomics Data</dc:title>
+        <dc:date>12/2013</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://doi.wiley.com/10.1002/minf.201300051</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-05-17 10:25:51</dcterms:dateSubmitted>
+        <bib:pages>898-905</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:18681743">
+        <prism:volume>32</prism:volume>
+        <dc:title>Molecular Informatics</dc:title>
+        <dc:identifier>DOI 10.1002/minf.201300051</dc:identifier>
+        <prism:number>11-12</prism:number>
+        <dcterms:alternative>Mol. Inf.</dcterms:alternative>
+        <dc:identifier>ISSN 18681743</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_221">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Versão Aceite</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/minf.201300051</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-05-17 10:25:53</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://pubs.acs.org/doi/10.1021/ci034289q">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0095-2338"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Verdonk</foaf:surname>
+                        <foaf:givenName>Marcel L.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Berdini</foaf:surname>
+                        <foaf:givenName>Valerio</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hartshorn</foaf:surname>
+                        <foaf:givenName>Michael J.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mooij</foaf:surname>
+                        <foaf:givenName>Wijnand T. M.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Murray</foaf:surname>
+                        <foaf:givenName>Christopher W.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Taylor</foaf:surname>
+                        <foaf:givenName>Richard D.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Watson</foaf:surname>
+                        <foaf:givenName>Paul</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Virtual Screening Using Protein−Ligand Docking: Avoiding Artificial Enrichment</dc:title>
+        <dc:date>05/2004</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>Virtual Screening Using Protein−Ligand Docking</z:shortTitle>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://pubs.acs.org/doi/10.1021/ci034289q</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-05-17 11:32:39</dcterms:dateSubmitted>
+        <bib:pages>793-806</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0095-2338">
+        <prism:volume>44</prism:volume>
+        <dc:title>Journal of Chemical Information and Computer Sciences</dc:title>
+        <dc:identifier>DOI 10.1021/ci034289q</dc:identifier>
+        <prism:number>3</prism:number>
+        <dcterms:alternative>J. Chem. Inf. Comput. Sci.</dcterms:alternative>
+        <dc:identifier>ISSN 0095-2338</dc:identifier>
+    </bib:Journal>
+    <bib:Article rdf:about="#item_223">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal></bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Organization</foaf:surname>
+                        <foaf:givenName>World Health</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>2019 antibacterial agents in clinical development: an analysis of the antibacterial clinical development pipeline</dc:title>
+        <dc:date>2019</dc:date>
+        <dc:description>ISBN: 9240000194
+Publisher: World Health Organization</dc:description>
+    </bib:Article>
+    <bib:BookSection rdf:about="urn:isbn:978-3-540-44244-8">
+        <z:itemType>bookSection</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Book>
+                <dc:identifier>ISBN 978-3-540-44244-8</dc:identifier>
+                <dc:title>Encyclopedic Reference of Genomics and Proteomics in Molecular Medicine</dc:title>
+            </bib:Book>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+               <foaf:name>Springer Berlin Heidelberg</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Klebe</foaf:surname>
+                        <foaf:givenName>Gerhard</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Structure-based Drug Design</dc:title>
+        <dc:date>2006</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://link.springer.com/10.1007/3-540-29623-9_0980</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-05-17 12:07:22</dcterms:dateSubmitted>
+        <dc:description>DOI: 10.1007/3-540-29623-9_0980</dc:description>
+        <bib:pages>1816-1818</bib:pages>
+    </bib:BookSection>
+    <bib:Article rdf:about="https://www.ingentaconnect.com/content/ben/cpd/2016/00000022/00000005/art00008">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>22</prism:volume>
+                <dc:title>Current Pharmaceutical Design</dc:title>
+                <prism:number>5</prism:number>
+                <dcterms:alternative>Current Pharmaceutical Design</dcterms:alternative>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hassan Baig</foaf:surname>
+                        <foaf:givenName>Mohammad</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ahmad</foaf:surname>
+                        <foaf:givenName>Khurshid</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Roy</foaf:surname>
+                        <foaf:givenName>Sudeep</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mohammad Ashraf</foaf:surname>
+                        <foaf:givenName>Jalaluddin</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Adil</foaf:surname>
+                        <foaf:givenName>Mohd</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Haris Siddiqui</foaf:surname>
+                        <foaf:givenName>Mohammad</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Khan</foaf:surname>
+                        <foaf:givenName>Saif</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Amjad Kamal</foaf:surname>
+                        <foaf:givenName>Mohammad</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Provazník</foaf:surname>
+                        <foaf:givenName>Ivo</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Choi</foaf:surname>
+                        <foaf:givenName>Inho</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>molecular docking</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>structure-based drug design</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>QSAR</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>virtual screening</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Computer-aided drug design</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>ligand-based drug design</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>molecular dynamics</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>pharmacophore</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Computer Aided Drug Design: Success and Limitations</dc:title>
+        <dcterms:abstract>Over the last few decades, computer-aided drug design has emerged as a powerful technique playing a crucial role in the development of new drug molecules. Structure-based drug design and ligand-based drug design are two methods commonly used in computer-aided drug design. In this article,
+we discuss the theory behind both methods, as well as their successful applications and limitations. To accomplish this, we reviewed structure based and ligand based virtual screening processes. Molecular dynamics simulation, which has become one of the most influential tool for prediction
+of the conformation of small molecules and changes in their conformation within the biological target, has also been taken into account. Finally, we discuss the principles and concepts of molecular docking, pharmacophores and other methods used in computer-aided drug design.</dcterms:abstract>
+        <dc:date>2016-02-01T00:00:00///</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.ingentaconnect.com/content/ben/cpd/2016/00000022/00000005/art00008</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>572-581</bib:pages>
+    </bib:Article>
+    <bib:Article rdf:about="http://www.annualreviews.org/doi/10.1146/annurev-biophys-070816-033654">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1936-122X,%201936-1238"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mobley</foaf:surname>
+                        <foaf:givenName>David L.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gilson</foaf:surname>
+                        <foaf:givenName>Michael K.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_227"/>
+        <dc:title>Predicting Binding Free Energies: Frontiers and Benchmarks</dc:title>
+        <dc:date>2017-05-22</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>Predicting Binding Free Energies</z:shortTitle>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.annualreviews.org/doi/10.1146/annurev-biophys-070816-033654</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-05-17 14:14:32</dcterms:dateSubmitted>
+        <bib:pages>531-558</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1936-122X,%201936-1238">
+        <prism:volume>46</prism:volume>
+        <dc:title>Annual Review of Biophysics</dc:title>
+        <dc:identifier>DOI 10.1146/annurev-biophys-070816-033654</dc:identifier>
+        <prism:number>1</prism:number>
+        <dcterms:alternative>Annu. Rev. Biophys.</dcterms:alternative>
+        <dc:identifier>ISSN 1936-122X, 1936-1238</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_227">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Versão Aceite</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://europepmc.org/articles/pmc5544526?pdf=render</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-05-17 14:14:35</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://www.mdpi.com/1420-3049/25/6/1452">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1420-3049"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sieradzki</foaf:surname>
+                        <foaf:givenName>Igor</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Leśniak</foaf:surname>
+                        <foaf:givenName>Damian</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Podlewska</foaf:surname>
+                        <foaf:givenName>Sabina</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_229"/>
+        <dc:title>How Sure Can We Be about ML Methods-Based Evaluation of Compound Activity: Incorporation of Information about Prediction Uncertainty Using Deep Learning Techniques</dc:title>
+        <dcterms:abstract>A great variety of computational approaches support drug design processes, helping in selection of new potentially active compounds, and optimization of their physicochemical and ADMET properties. Machine learning is a group of methods that are able to evaluate in relatively short time enormous amounts of data. However, the quality of machine-learning-based prediction depends on the data supplied for model training. In this study, we used deep neural networks for the task of compound activity prediction and developed dropout-based approaches for estimating prediction uncertainty. Several types of analyses were performed: the relationships between the prediction error, similarity to the training set, prediction uncertainty, number and standard deviation of activity values were examined. It was tested whether incorporation of information about prediction uncertainty influences compounds ranking based on predicted activity and prediction uncertainty was used to search for the potential errors in the ChEMBL database. The obtained outcome indicates that incorporation of information about uncertainty of compound activity prediction can be of great help during virtual screening experiments.</dcterms:abstract>
+        <dc:date>2020-03-23</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>How Sure Can We Be about ML Methods-Based Evaluation of Compound Activity</z:shortTitle>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://www.mdpi.com/1420-3049/25/6/1452</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-05-17 15:31:22</dcterms:dateSubmitted>
+        <bib:pages>1452</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1420-3049">
+        <prism:volume>25</prism:volume>
+        <dc:title>Molecules</dc:title>
+        <dc:identifier>DOI 10.3390/molecules25061452</dc:identifier>
+        <prism:number>6</prism:number>
+        <dcterms:alternative>Molecules</dcterms:alternative>
+        <dc:identifier>ISSN 1420-3049</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_229">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Texto Completo</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://www.mdpi.com/1420-3049/25/6/1452/pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-05-17 15:31:34</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://pubs.acs.org/doi/10.1021/jm9603781">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>40</prism:volume>
+                <dc:title>Journal of Medicinal Chemistry</dc:title>
+                <dc:identifier>DOI 10.1021/jm9603781</dc:identifier>
+                <prism:number>15</prism:number>
+                <dcterms:alternative>J. Med. Chem.</dcterms:alternative>
+                <dc:identifier>ISSN 0022-2623, 1520-4804</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Horvath</foaf:surname>
+                        <foaf:givenName>Dragos</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>A Virtual Screening Approach Applied to the Search for Trypanothione Reductase Inhibitors</dc:title>
+        <dc:date>07/1997</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://pubs.acs.org/doi/10.1021/jm9603781</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-05-19 11:43:33</dcterms:dateSubmitted>
+        <bib:pages>2412-2423</bib:pages>
+    </bib:Article>
+    <bib:Article rdf:about="http://doi.wiley.com/10.1002/minf.201500010">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>34</prism:volume>
+                <dc:title>Molecular Informatics</dc:title>
+                <dc:identifier>DOI 10.1002/minf.201500010</dc:identifier>
+                <prism:number>8</prism:number>
+                <dcterms:alternative>Mol. Inf.</dcterms:alternative>
+                <dc:identifier>ISSN 18681743</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Liu</foaf:surname>
+                        <foaf:givenName>Zhihai</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Li</foaf:surname>
+                        <foaf:givenName>Jie</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Liu</foaf:surname>
+                        <foaf:givenName>Jie</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Liu</foaf:surname>
+                        <foaf:givenName>Yuchen</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Nie</foaf:surname>
+                        <foaf:givenName>Wei</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Han</foaf:surname>
+                        <foaf:givenName>Li</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Li</foaf:surname>
+                        <foaf:givenName>Yan</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wang</foaf:surname>
+                        <foaf:givenName>Renxiao</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Cross-Mapping of Protein - Ligand Binding Data Between ChEMBL and PDBbind</dc:title>
+        <dc:date>08/2015</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://doi.wiley.com/10.1002/minf.201500010</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-05-22 12:52:43</dcterms:dateSubmitted>
+        <bib:pages>568-576</bib:pages>
+    </bib:Article>
+    <bib:Article rdf:about="http://www.nature.com/articles/nature17042">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0028-0836,%201476-4687"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Brown</foaf:surname>
+                        <foaf:givenName>Eric D.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wright</foaf:surname>
+                        <foaf:givenName>Gerard D.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Antibacterial drug discovery in the resistance era</dc:title>
+        <dc:date>1/2016</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://www.nature.com/articles/nature17042</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-05-22 13:07:48</dcterms:dateSubmitted>
+        <bib:pages>336-343</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0028-0836,%201476-4687">
+        <prism:volume>529</prism:volume>
+        <dc:title>Nature</dc:title>
+        <dc:identifier>DOI 10.1038/nature17042</dc:identifier>
+        <prism:number>7586</prism:number>
+        <dcterms:alternative>Nature</dcterms:alternative>
+        <dc:identifier>ISSN 0028-0836, 1476-4687</dc:identifier>
+    </bib:Journal>
+    <bib:Article rdf:about="https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkw1000">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dc:title>Nucleic Acids Research</dc:title>
+                <dc:identifier>DOI 10.1093/nar/gkw1000</dc:identifier>
+                <dcterms:alternative>Nucleic Acids Research</dcterms:alternative>
+                <dc:identifier>ISSN 0305-1048, 1362-4962</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_236"/>
+        <dc:title>OUP accepted manuscript</dc:title>
+        <dc:date>2016</dc:date>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkw1000</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-05-22 13:21:47</dcterms:dateSubmitted>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_236">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Texto Completo</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://academic.oup.com/nar/article-pdf/45/D1/D271/8846530/gkw1000.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-05-22 13:21:53</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://pubs.acs.org/doi/10.1021/ci300415d">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>52</prism:volume>
+                <dc:title>Journal of Chemical Information and Modeling</dc:title>
+                <dc:identifier>DOI 10.1021/ci300415d</dc:identifier>
+                <prism:number>11</prism:number>
+                <dcterms:alternative>J. Chem. Inf. Model.</dcterms:alternative>
+                <dc:identifier>ISSN 1549-9596, 1549-960X</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ruddigkeit</foaf:surname>
+                        <foaf:givenName>Lars</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>van Deursen</foaf:surname>
+                        <foaf:givenName>Ruud</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Blum</foaf:surname>
+                        <foaf:givenName>Lorenz C.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Reymond</foaf:surname>
+                        <foaf:givenName>Jean-Louis</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_238"/>
+        <dc:title>Enumeration of 166 Billion Organic Small Molecules in the Chemical Universe Database GDB-17</dc:title>
+        <dc:date>2012-11-26</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://pubs.acs.org/doi/10.1021/ci300415d</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-05-23 09:33:06</dcterms:dateSubmitted>
+        <bib:pages>2864-2875</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_238">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Texto Completo</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://pubs.acs.org/doi/pdf/10.1021/ci300415d</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-05-23 09:33:11</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://pubs.acs.org/doi/10.1021/ci7002686">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>48</prism:volume>
+                <dc:title>Journal of Chemical Information and Modeling</dc:title>
+                <dc:identifier>DOI 10.1021/ci7002686</dc:identifier>
+                <prism:number>1</prism:number>
+                <dcterms:alternative>J. Chem. Inf. Model.</dcterms:alternative>
+                <dc:identifier>ISSN 1549-9596, 1549-960X</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hattori</foaf:surname>
+                        <foaf:givenName>Kazunari</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wakabayashi</foaf:surname>
+                        <foaf:givenName>Hiroaki</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Tamaki</foaf:surname>
+                        <foaf:givenName>Kenta</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Predicting Key Example Compounds in Competitors' Patent Applications Using Structural Information Alone</dc:title>
+        <dc:date>01/2008</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://pubs.acs.org/doi/10.1021/ci7002686</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-05-23 09:38:04</dcterms:dateSubmitted>
+        <bib:pages>135-142</bib:pages>
+    </bib:Article>
+    <bib:Article rdf:about="http://link.springer.com/10.1007/s10822-007-9167-2">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>22</prism:volume>
+                <dc:title>Journal of Computer-Aided Molecular Design</dc:title>
+                <dc:identifier>DOI 10.1007/s10822-007-9167-2</dc:identifier>
+                <prism:number>3-4</prism:number>
+                <dcterms:alternative>J Comput Aided Mol Des</dcterms:alternative>
+                <dc:identifier>ISSN 0920-654X, 1573-4951</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Good</foaf:surname>
+                        <foaf:givenName>Andrew C.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Oprea</foaf:surname>
+                        <foaf:givenName>Tudor I.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Optimization of CAMD techniques 3. Virtual screening enrichment studies: a help or hindrance in tool selection?</dc:title>
+        <dc:date>3/2008</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>Optimization of CAMD techniques 3. Virtual screening enrichment studies</z:shortTitle>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://link.springer.com/10.1007/s10822-007-9167-2</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-05-23 12:11:10</dcterms:dateSubmitted>
+        <bib:pages>169-178</bib:pages>
+    </bib:Article>
+    <bib:Article rdf:about="https://linkinghub.elsevier.com/retrieve/pii/S0167629602001261">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:01676296"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>DiMasi</foaf:surname>
+                        <foaf:givenName>Joseph A</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hansen</foaf:surname>
+                        <foaf:givenName>Ronald W</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Grabowski</foaf:surname>
+                        <foaf:givenName>Henry G</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_242"/>
+        <dc:title>The price of innovation: new estimates of drug development costs</dc:title>
+        <dc:date>3/2003</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>The price of innovation</z:shortTitle>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://linkinghub.elsevier.com/retrieve/pii/S0167629602001261</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-05-23 20:01:18</dcterms:dateSubmitted>
+        <bib:pages>151-185</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:01676296">
+        <prism:volume>22</prism:volume>
+        <dc:title>Journal of Health Economics</dc:title>
+        <dc:identifier>DOI 10.1016/S0167-6296(02)00126-1</dc:identifier>
+        <prism:number>2</prism:number>
+        <dcterms:alternative>Journal of Health Economics</dcterms:alternative>
+        <dc:identifier>ISSN 01676296</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_242">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Texto Completo</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://dukespace.lib.duke.edu/dspace/bitstream/10161/6706/1/Record7.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-05-23 20:01:20</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://academic.oup.com/nar/article/47/D1/D930/5162468">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>47</prism:volume>
+                <dc:title>Nucleic Acids Research</dc:title>
+                <dc:identifier>DOI 10.1093/nar/gky1075</dc:identifier>
+                <prism:number>D1</prism:number>
+                <dc:identifier>ISSN 0305-1048, 1362-4962</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mendez</foaf:surname>
+                        <foaf:givenName>David</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gaulton</foaf:surname>
+                        <foaf:givenName>Anna</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bento</foaf:surname>
+                        <foaf:givenName>A Patrícia</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Chambers</foaf:surname>
+                        <foaf:givenName>Jon</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>De Veij</foaf:surname>
+                        <foaf:givenName>Marleen</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Félix</foaf:surname>
+                        <foaf:givenName>Eloy</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Magariños</foaf:surname>
+                        <foaf:givenName>María Paula</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mosquera</foaf:surname>
+                        <foaf:givenName>Juan F</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mutowo</foaf:surname>
+                        <foaf:givenName>Prudence</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Nowotka</foaf:surname>
+                        <foaf:givenName>Michał</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gordillo-Marañón</foaf:surname>
+                        <foaf:givenName>María</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hunter</foaf:surname>
+                        <foaf:givenName>Fiona</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Junco</foaf:surname>
+                        <foaf:givenName>Laura</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mugumbate</foaf:surname>
+                        <foaf:givenName>Grace</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Rodriguez-Lopez</foaf:surname>
+                        <foaf:givenName>Milagros</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Atkinson</foaf:surname>
+                        <foaf:givenName>Francis</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bosc</foaf:surname>
+                        <foaf:givenName>Nicolas</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Radoux</foaf:surname>
+                        <foaf:givenName>Chris J</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Segura-Cabrera</foaf:surname>
+                        <foaf:givenName>Aldo</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hersey</foaf:surname>
+                        <foaf:givenName>Anne</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Leach</foaf:surname>
+                        <foaf:givenName>Andrew R</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_244"/>
+        <dc:title>ChEMBL: towards direct deposition of bioassay data</dc:title>
+        <dc:date>2019-01-08</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>ChEMBL</z:shortTitle>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://academic.oup.com/nar/article/47/D1/D930/5162468</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-05-23 20:04:39</dcterms:dateSubmitted>
+        <bib:pages>D930-D940</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_244">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Texto Completo</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://academic.oup.com/nar/article-pdf/47/D1/D930/27437436/gky1075.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-05-23 20:04:46</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkv1072">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>44</prism:volume>
+                <dc:title>Nucleic Acids Research</dc:title>
+                <dc:identifier>DOI 10.1093/nar/gkv1072</dc:identifier>
+                <prism:number>D1</prism:number>
+                <dcterms:alternative>Nucleic Acids Res</dcterms:alternative>
+                <dc:identifier>ISSN 0305-1048, 1362-4962</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gilson</foaf:surname>
+                        <foaf:givenName>Michael K.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Liu</foaf:surname>
+                        <foaf:givenName>Tiqing</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Baitaluk</foaf:surname>
+                        <foaf:givenName>Michael</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Nicola</foaf:surname>
+                        <foaf:givenName>George</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hwang</foaf:surname>
+                        <foaf:givenName>Linda</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Chong</foaf:surname>
+                        <foaf:givenName>Jenny</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_246"/>
+        <dc:title>BindingDB in 2015: A public database for medicinal chemistry, computational chemistry and systems pharmacology</dc:title>
+        <dc:date>2016-01-04</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>BindingDB in 2015</z:shortTitle>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkv1072</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-05-23 20:17:49</dcterms:dateSubmitted>
+        <bib:pages>D1045-D1053</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_246">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Texto Completo</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://academic.oup.com/nar/article-pdf/44/D1/D1045/9482229/gkv1072.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-05-23 20:17:56</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+</rdf:RDF>
